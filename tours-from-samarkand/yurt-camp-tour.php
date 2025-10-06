@@ -1,6 +1,6 @@
 <?php include 'mailer-tours.php'; ?>
 <?php $title = "Tour to Yurt Camp near Aydarkul lake"; ?>
-<?php include 'uzbekistan-tours/includes/header.php';?>
+<?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">

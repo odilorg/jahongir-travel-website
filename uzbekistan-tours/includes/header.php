@@ -145,7 +145,7 @@
 							<a href="/jahongir-trave-001/">Tours</a>
 							<ul class="sub-menu">
 								<li><a href="/jahongir-trave-001/tours/khiva/ancient-fortresses">Tours from Khiva</a></li>
-								<li><a href="../tours-from-samarkand/index.php">Tours from Samarkand</a></li>
+								<li><a href="/jahongir-trave-001/tours/samarkand">Tours from Samarkand</a></li>
 								<li><a href="../tours-from-bukhara/index.php">Tours from Bukhara</a>
 									
 								</li>

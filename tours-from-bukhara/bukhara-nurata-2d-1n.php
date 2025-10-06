@@ -1,7 +1,7 @@
 <?php include 'mailer-tours.php'; ?>
 <?php $title = "Bukhara - Nuratau homestay 2 days 1 night tour"; ?>
 
-<?php include 'uzbekistan-tours/includes/header.php';?>
+<?php include 'includes/header.php';?>
 <div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
