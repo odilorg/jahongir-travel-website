@@ -56,14 +56,14 @@
 	
 </div>
 
-<script type='text/javascript' src='assets/js/jquery.min.js'></script>        
-<script type='text/javascript' src='assets/js/bootstrap.min.js'></script>     
-<script type='text/javascript' src='assets/js/vendors.js'></script>
-<script type='text/javascript' src='assets/js/owl.carousel.min.js'></script>  
-<script type="text/javascript" src="assets/js/jquery.mb-comingsoon.min.js"></script>
-<script type="text/javascript" src="assets/js/waypoints.min.js"></script>        
-<script type="text/javascript" src="assets/js/jquery.counterup.min.js"></script> 
-<script type='text/javascript' src='assets/js/theme.js'></script>
+<script type='text/javascript' src='/jahongir-trave-001/assets/js/jquery.min.js'></script>        
+<script type='text/javascript' src='/jahongir-trave-001/assets/js/bootstrap.min.js'></script>     
+<script type='text/javascript' src='/jahongir-trave-001/assets/js/vendors.js'></script>
+<script type='text/javascript' src='/jahongir-trave-001/assets/js/owl.carousel.min.js'></script>  
+<script type="text/javascript" src="/jahongir-trave-001/assets/js/jquery.mb-comingsoon.min.js"></script>
+<script type="text/javascript" src="/jahongir-trave-001/assets/js/waypoints.min.js"></script>        
+<script type="text/javascript" src="/jahongir-trave-001/assets/js/jquery.counterup.min.js"></script> 
+<script type='text/javascript' src='/jahongir-trave-001/assets/js/theme.js'></script>
   
 <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 <script>

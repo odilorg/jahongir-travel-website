@@ -17,15 +17,15 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="xmlrpc.html">
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all">
-	<link rel="stylesheet" href="assets/css/font-awesome.min.css" type="text/css" media="all">
-	<link rel="stylesheet" href="assets/css/flaticon.css" type="text/css" media="all">
-	<link rel="stylesheet" href="assets/css/font-linearicons.css" type="text/css" media="all">
-	<link rel="stylesheet" href="assets/css/booking.css" type="text/css" media="all">
-	<link rel="stylesheet" href="assets/css/swipebox.min.css" type="text/css" media="all">
-	<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all">
-	<link rel="stylesheet" href="assets/css/travel-setting.css" type="text/css" media="all">
-	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/bootstrap.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/font-awesome.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/flaticon.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/font-linearicons.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/booking.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/swipebox.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/jahongir-trave-001/assets/css/travel-setting.css" type="text/css" media="all">
+	<link rel="shortcut icon" href="/jahongir-trave-001/images/favicon.png" type="image/x-icon">
 	
 	<link rel="stylesheet" href="thumbnail-gallery.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
