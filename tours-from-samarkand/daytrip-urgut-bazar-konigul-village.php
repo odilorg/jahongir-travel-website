@@ -3,11 +3,11 @@
 <?php include 'uzbekistan-tours/includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="index.php" class="home">Tours</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Tours</a></li>
 						<li>Urgut market, paper and silk carpet factory day tour</li>
 					</ul>
 				</div>
@@ -176,7 +176,7 @@
 														</tr>
 														<tr>
 															<td>
-																<a href ="tours/urgut-konigil.pdf"><img src="../images/pdf-download.png" alt="pdf-file-download">Day tour to Urgut Market, silk carpet, paper factory</a>
+																<a href ="tours/urgut-konigil.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Day tour to Urgut Market, silk carpet, paper factory</a>
 															</td>
 														</tr>
 														</tbody>

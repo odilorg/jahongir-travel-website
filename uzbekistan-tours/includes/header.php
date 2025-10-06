@@ -19,18 +19,18 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="xmlrpc.html">
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700">
-	<link rel="stylesheet" href="../assets/css/bootstrap.min.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/css/font-awesome.min.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/css/flaticon.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/css/font-linearicons.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/css/booking.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/css/swipebox.min.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/css/style.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/style.css" type="text/css" media="all">
-	<link rel="stylesheet" href="../assets/css/travel-setting.css" type="text/css" media="all">
-	<link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/font-awesome.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/flaticon.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/font-linearicons.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/booking.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/swipebox.min.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/style.css" type="text/css" media="all">
+	<link rel="stylesheet" href="assets/css/travel-setting.css" type="text/css" media="all">
+	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 	
-	<link rel="stylesheet" href="../thumbnail-gallery.css">
+	<link rel="stylesheet" href="thumbnail-gallery.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
@@ -43,7 +43,7 @@
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
-<link rel="stylesheet" href="../assets/css/thumbnail-gallery.css">
+<link rel="stylesheet" href="assets/css/thumbnail-gallery.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
@@ -131,26 +131,26 @@
 					<span class="icon-bar"></span>
 				</div>
 				<div class="width-logo sm-logo">
-					<a href="../index.php" title="Jahongir Travel" rel="home">
-						<img src="../images/logo_brown.png" alt="Logo" width="474" height="130" class="logo_transparent_static">
-						<img src="../images/logo_sticky.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
+					<a href="/jahongir-trave-001/" title="Jahongir Travel" rel="home">
+						<img src="images/logo_brown.png" alt="Logo" width="474" height="130" class="logo_transparent_static">
+						<img src="images/logo_sticky.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
 					</a>
 				</div>
 				<nav class="width-navigation">
 					<ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
 						<li >
-							<a href="../aboutus.php">About Us</a>
+							<a href="/jahongir-trave-001/about">About Us</a>
 						</li>
 						<li class="menu-item-has-children current-menu-parent">
-							<a href="index.php">Tours</a>
+							<a href="/jahongir-trave-001/">Tours</a>
 							<ul class="sub-menu">
-								<li><a href="../tours-from-khiva/tour-from-khiva-ancient-fortresses.php">Tours from Khiva</a></li>
+								<li><a href="/jahongir-trave-001/tours/khiva/ancient-fortresses">Tours from Khiva</a></li>
 								<li><a href="../tours-from-samarkand/index.php">Tours from Samarkand</a></li>
 								<li><a href="../tours-from-bukhara/index.php">Tours from Bukhara</a>
 									
 								</li>
 								<li><a href="../uzbekistan-tours/index.php">Uzbekistan tours</a>
-								<li><a href="../tajikistan-tours/seven-lakes-tajikistan-tour.php">Tajikistan tours</a>
+								<li><a href="/jahongir-trave-001/tours/tajikistan/seven-lakes-tour">Tajikistan tours</a>
 									
 								</li>
 								
@@ -159,7 +159,7 @@
 						
 
 						
-						<li><a href="../contact.php">Contact US</a></li>
+						<li><a href="/jahongir-trave-001/contact">Contact US</a></li>
 						
 					</ul>
 				</nav>

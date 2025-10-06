@@ -5,11 +5,11 @@
 
 <?php include '../uzbekistan-tours/includes/header.php';?>
 	<div class="wrapper-container">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="index.php" class="home">Tours</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Tours</a></li>
 						<li>Uzbekistan Tours</li>
 					</ul>
 				</div>
@@ -56,7 +56,7 @@
 										<a href="bukhara-yurt-camp-samarkand.php">
 											<span class="price">From $125.00									
 											</span>
-											<img width="430" height="305" src="../tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-overview.jpg" alt="yurt-camp-aydarkul-tour-from-bukhara" title="yurt-camp-aydarkul-tour-from-bukhara">
+											<img width="430" height="305" src="tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-overview.jpg" alt="yurt-camp-aydarkul-tour-from-bukhara" title="yurt-camp-aydarkul-tour-from-bukhara">
 										</a>
 									</div>
 									<div class="wrapper_content">
@@ -85,7 +85,7 @@
 									<div class="post_images">
 										<a href="bukhara-nurata-2d-1n.php">
 											<span class="price">From $130.00</span>
-											<img width="430" height="305" src="../tours-from-samarkand/images/nuratau/climbing-nuratau.jpg" alt="hiking-nuratau-tour-climbing-nuratau" title="hiking-nuratau-tour-climbing-nuratau">
+											<img width="430" height="305" src="tours-from-samarkand/images/nuratau/climbing-nuratau.jpg" alt="hiking-nuratau-tour-climbing-nuratau" title="hiking-nuratau-tour-climbing-nuratau">
 										</a>
 										
 									</div>
@@ -115,7 +115,7 @@
 									<div class="post_images">
 										<a href="bukhara-nuratau-3d-2n.php">
 											<span class="price">From $20.00</span>
-											<img width="430" height="305" src="../tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="tour-from-bukhara-hayat-nuratau-hiking" title="tour-from-bukhara-hayat-nuratau-hiking">
+											<img width="430" height="305" src="tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="tour-from-bukhara-hayat-nuratau-hiking" title="tour-from-bukhara-hayat-nuratau-hiking">
 										</a>
 										
 									</div>
@@ -145,7 +145,7 @@
 									<div class="post_images">
 										<a href="bukhara-nuratau-4d-3n.php">
 											<span class="price">From $20.00</span>
-											<img width="430" height="305" src="../tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-nuratau.jpg" alt="tour-from-bukhara-nuratau-mountains" title="tour-from-bukhara-nuratau-mountains">
+											<img width="430" height="305" src="tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-nuratau.jpg" alt="tour-from-bukhara-nuratau-mountains" title="tour-from-bukhara-nuratau-mountains">
 										</a>
 									</div>
 									<div class="wrapper_content">

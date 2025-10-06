@@ -2,11 +2,11 @@
 <?php include 'includes/header.php';?>
 
 	<div class="wrapper-container">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="index.php" class="home">Tours</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Tours</a></li>
 						<li>Uzbekistan Tours</li>
 					</ul>
 				</div>
@@ -20,15 +20,15 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="../uzbekistan-tours/best-of-uzbekistan-in-10-days.php">
+										<a href="/jahongir-trave-001/uzbekistan-tours/best-of-uzbekistan-10-days">
 											<span class="price">From $950.00</span>
-											<img width="430" height="305" src="../uzbekistan-tours/images/best-of-uzbekistan-in-10-days-banner.jpg" alt="uzbekistan-tour-best-of-uzbekistan-in-10-days" title="Best of Uzbekistan in 10 days tour">
+											<img width="430" height="305" src="uzbekistan-tours/images/best-of-uzbekistan-in-10-days-banner.jpg" alt="uzbekistan-tour-best-of-uzbekistan-in-10-days" title="Best of Uzbekistan in 10 days tour">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="../uzbekistan-tours/best-of-uzbekistan-in-10-days.php" rel="bookmark">Best of Uzbekistan in 10 days tour</a>
+											<a href="/jahongir-trave-001/uzbekistan-tours/best-of-uzbekistan-10-days" rel="bookmark">Best of Uzbekistan in 10 days tour</a>
 										</h4></div>
 										<span class="post_date">10 days</span>
 										<div class="description">
@@ -43,24 +43,24 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="../uzbekistan-tours/best-of-uzbekistan-in-10-days.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/uzbekistan-tours/best-of-uzbekistan-10-days" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="../uzbekistan-tours/bike-tour-in-uzbekistan.php">
+										<a href="/jahongir-trave-001/uzbekistan-tours/bike-tour">
 											<span class="price">From $1099.00									
 											</span>
 											
-											<img width="430" height="305" src="../uzbekistan-tours/images/uzbekistan-bike-tour-banner.jpg" alt="uzbekistan-bike-tour-registan" title="uzbekistan-adventure-bike-tour-registan">
+											<img width="430" height="305" src="uzbekistan-tours/images/uzbekistan-bike-tour-banner.jpg" alt="uzbekistan-bike-tour-registan" title="uzbekistan-adventure-bike-tour-registan">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="../uzbekistan-tours/bike-tour-in-uzbekistan.php" rel="bookmark">Uzbekistan Adventure bike tour</a>
+											<a href="/jahongir-trave-001/uzbekistan-tours/bike-tour" rel="bookmark">Uzbekistan Adventure bike tour</a>
 										</h4></div>
 										<span class="post_date">13 DAYS 12 NIGHTS</span>
 										<div class="description">
@@ -75,24 +75,24 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="../uzbekistan-tours/bike-tour-in-uzbekistan.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/uzbekistan-tours/bike-tour" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="../uzbekistan-tours/seven-mysterious-nights-uzbekistan.php">
+										<a href="/jahongir-trave-001/uzbekistan-tours/seven-mysterious-nights">
 											<span class="price">From $1099.00									
 											</span>
 											
-											<img width="430" height="305" src="../uzbekistan-tours/images/8-myterious-nights-map.jpg" alt="8-myterious-nights-map" title="8-myterious-nights-map">
+											<img width="430" height="305" src="uzbekistan-tours/images/8-myterious-nights-map.jpg" alt="8-myterious-nights-map" title="8-myterious-nights-map">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="../uzbekistan-tours/seven-mysterious-nights-uzbekistan.php" rel="bookmark">7 Mysterious nights in Uzbekistan</a>
+											<a href="/jahongir-trave-001/uzbekistan-tours/seven-mysterious-nights" rel="bookmark">7 Mysterious nights in Uzbekistan</a>
 										</h4></div>
 										<span class="post_date">8 DAYS 7 NIGHTS</span>
 										<div class="description">
@@ -107,22 +107,22 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="../uzbekistan-tours/seven-mysterious-nights-uzbekistan.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/uzbekistan-tours/seven-mysterious-nights" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="../uzbekistan-tours/golden-journey-to-samarkand.php">
+										<a href="/jahongir-trave-001/uzbekistan-tours/golden-journey-samarkand">
 											<span class="price">From $1150.00</span>
-											<img width="430" height="305" src="../uzbekistan-tours/images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-uzbekistan-tour" title="uzbekistan-tour-golden-journey-to-samarkand">
+											<img width="430" height="305" src="uzbekistan-tours/images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-uzbekistan-tour" title="uzbekistan-tour-golden-journey-to-samarkand">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="../uzbekistan-tours/golden-journey-to-samarkand.php" rel="bookmark">Golden Road to Samarkand tour</a>
+											<a href="/jahongir-trave-001/uzbekistan-tours/golden-journey-samarkand" rel="bookmark">Golden Road to Samarkand tour</a>
 										</h4></div>
 										<span class="post_date">13 DAYS 12 NIGHTS</span>
 										<div class="description">
@@ -137,7 +137,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="../uzbekistan-tours/golden-journey-to-samarkand.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/uzbekistan-tours/golden-journey-samarkand" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>

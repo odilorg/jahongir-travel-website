@@ -3,11 +3,11 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="../index.php" class="home">Tours</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Tours</a></li>
 						<li>Uzbekistan tours</li>
 					</ul>
 				</div>
@@ -305,7 +305,7 @@
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
 										
 										<div>
-										<img alt="" src="../uzbekistan-tours/images/8-myterious-nights-map-big.jpg"  height="450" width="800">
+										<img alt="" src="uzbekistan-tours/images/8-myterious-nights-map-big.jpg"  height="450" width="800">
 											
 										</div>
 									
@@ -319,7 +319,7 @@
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
-															<img alt="" src="../images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
+															<img alt="" src="images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
 															<div class="comment-text">
 																<div class="star-rating" title="Rated 4 out of 5">
 																	<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>

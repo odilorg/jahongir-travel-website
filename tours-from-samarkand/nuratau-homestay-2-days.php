@@ -3,11 +3,11 @@
 <?php include 'uzbekistan-tours/includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="index.php" class="home">Home</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Home</a></li>
 						<li>Nuratau Homestay 2 days</li>
 					</ul>
 				</div>
@@ -172,7 +172,7 @@
 														</tr>
 														<tr>
 															<td>
-																<a href ="tours/nuratau 2d-1n.pdf"><img src="../images/pdf-download.png" alt="pdf-file-download">Homestay in Nuratau 2 days</a>
+																<a href ="tours/nuratau 2d-1n.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Homestay in Nuratau 2 days</a>
 															</td>
 														</tr>
 														</tbody>

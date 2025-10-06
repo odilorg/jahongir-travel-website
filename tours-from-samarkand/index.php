@@ -2,11 +2,11 @@
 
 <?php include '../uzbekistan-tours/includes/header.php';?>
 	<div class="wrapper-container">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="index.php" class="home">Tours</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Tours</a></li>
 						<li>Uzbekistan Tours</li>
 					</ul>
 				</div>
@@ -83,15 +83,15 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="../tajikistan-tours/seven-lakes-tajikistan-tour.php">
+										<a href="/jahongir-trave-001/tours/tajikistan/seven-lakes-tour">
 											<span class="price">From $130.00</span>
-											<img width="430" height="305" src="../tajikistan-tours/images/seven-lakes.jpg" alt="hiking-nuratau-tour" title="hiking-nuratau-tour">
+											<img width="430" height="305" src="tajikistan-tours/images/seven-lakes.jpg" alt="hiking-nuratau-tour" title="hiking-nuratau-tour">
 										</a>
 										
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="../tajikistan-tours/seven-lakes-tajikistan-tour.php" rel="bookmark">Samarkand to Tajikistan Seven lakes</a>
+											<a href="/jahongir-trave-001/tours/tajikistan/seven-lakes-tour" rel="bookmark">Samarkand to Tajikistan Seven lakes</a>
 										</h4></div>
 										<span class="post_date">DAYTRIP</span>
 										<div class="description">
@@ -106,7 +106,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="../tajikistan-tours/seven-lakes-tajikistan-tour.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/tajikistan/seven-lakes-tour" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>

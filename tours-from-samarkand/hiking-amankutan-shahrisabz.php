@@ -3,11 +3,11 @@
 <?php include 'uzbekistan-tours/includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="index.php" class="home">Tours</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Tours</a></li>
 						<li>Aman Kutan Hiking with Trip to Shahrisabz</li>
 					</ul>
 				</div>
@@ -174,7 +174,7 @@
 														</tr>
 														<tr>
 															<td>
-																<a href ="tours/aman-kutan-shahrisabz.pdf"><img src="../images/pdf-download.png" alt="pdf-file-download">Aman Kutan combined with a day tour to Shahrisabz</a>
+																<a href ="tours/aman-kutan-shahrisabz.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Aman Kutan combined with a day tour to Shahrisabz</a>
 															</td>
 														</tr>
 														</tbody>

@@ -3,11 +3,11 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
-						<li><a href="../index.php" class="home">Tours</a></li>
+						<li><a href="/jahongir-trave-001/" class="home">Tours</a></li>
 						<li>Uzbekistan tours</li>
 					</ul>
 				</div>
@@ -361,7 +361,7 @@
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
 										
 										<div>
-										<img alt="" src="../uzbekistan-tours/images/uzbekistan-bike-tour.jpg"  height="450" width="800">
+										<img alt="" src="uzbekistan-tours/images/uzbekistan-bike-tour.jpg"  height="450" width="800">
 											
 										</div>
 									
