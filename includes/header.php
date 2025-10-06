@@ -109,7 +109,7 @@
 					<span class="icon-bar"></span>
 				</div>
 				<div class="width-logo sm-logo">
-					<a href="index.php" title="Jahongir Travel" rel="home">
+					<a href="/jahongir-trave-001/" title="Jahongir Travel" rel="home">
 						<img src="images/logo_brown.png" alt="Logo" width="474" height="130" class="logo_transparent_static">
 						<img src="images/logo_sticky.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
 					</a>
@@ -117,18 +117,18 @@
 				<nav class="width-navigation">
 					<ul class="nav navbar-nav menu-main-menu side-nav" id="mobile-demo">
 						<li >
-							<a href="aboutus.php">About Us</a>
+							<a href="/jahongir-trave-001/about">About Us</a>
 						</li>
 						<li class="menu-item-has-children current-menu-parent">
-							<a href="index.php">Tours</a>
+							<a href="/jahongir-trave-001/">Tours</a>
 							<ul class="sub-menu">
-								<li><a href="tours-from-khiva/tour-from-khiva-ancient-fortresses.php">Tours from Khiva</a></li>
-								<li><a href="tours-from-samarkand/index.php">Tours from Samarkand</a></li>
-								<li><a href="tours-from-bukhara/index.php">Tours from Bukhara</a>
+								<li><a href="/jahongir-trave-001/tours/khiva/ancient-fortresses">Tours from Khiva</a></li>
+								<li><a href="/jahongir-trave-001/tours/samarkand">Tours from Samarkand</a></li>
+								<li><a href="/jahongir-trave-001/tours/bukhara">Tours from Bukhara</a>
 									
 								</li>
-								<li><a href="uzbekistan-tours/index.php">Uzbekistan tours</a>
-								<li><a href="tajikistan-tours/seven-lakes-tajikistan-tour.php">Tajikistan tours</a>
+								<li><a href="/jahongir-trave-001/uzbekistan-tours">Uzbekistan tours</a>
+								<li><a href="/jahongir-trave-001/tours/tajikistan/seven-lakes-tour">Tajikistan tours</a>
 									
 								</li>
 								
@@ -137,9 +137,9 @@
 						
 
 						
-						<li><a href="contact.php">Contact US</a></li>
+						<li><a href="/jahongir-trave-001/contact">Contact US</a></li>
 						<li class="menu-item-has-children current-menu-parent">
-							<a href="index.php">Our Hotels</a>
+							<a href="/jahongir-trave-001/">Our Hotels</a>
 							<ul class="sub-menu">
 								<li><a href="https://jahongir-premium.uz/">Jahongir Premium Hotel</a></li>
 								<li><a href="https://jahongirbandb.com/">Jahongir Guest House</a></li>

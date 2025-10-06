@@ -21,9 +21,9 @@
 					<aside class="col-sm-6 widget_text"><h3 class="widget-title">Our Menu</h3>
 						<div class="textwidget">
 							<ul class="menu list-arrow">
-								<li><a href="aboutus.php">About us</a></li>
-								<li><a href="index.php">Samarkand Tours</a></li>
-								<li><a href="contact.php">Contact</a></li>
+								<li><a href="/jahongir-trave-001/about">About us</a></li>
+								<li><a href="/jahongir-trave-001/tours/samarkand">Samarkand Tours</a></li>
+								<li><a href="/jahongir-trave-001/contact">Contact</a></li>
 								<li><a href="https://jahongir-premium.uz/">Jahongir Premium Hotel</a></li>
 								<li><a href="https://jahongirbandb.com/">Jahongir Guest House</a></li>
 							</ul>

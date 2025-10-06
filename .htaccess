@@ -1,29 +1,16 @@
-# BEGIN SMUSH-WEBP
-<IfModule mod_rewrite.c>
- RewriteEngine On
- RewriteCond %{DOCUMENT_ROOT}/wp-content/smush-webp/disable_smush_webp !-f
- RewriteCond %{HTTP_ACCEPT} image/webp
- RewriteCond %{DOCUMENT_ROOT}/wp-content/smush-webp/$1.webp -f
- RewriteRule wp-content/uploads/(.*\.(?:png|jpe?g))$ wp-content/smush-webp/$1.webp [NC,T=image/webp]
-</IfModule>
+RewriteEngine On
 
-<IfModule mod_headers.c>
- Header append Vary Accept env=WEBP_image
-</IfModule>
+# Allow robots.txt and sitemap.xml to pass through
+RewriteRule ^(robots\.txt|sitemap\.xml)$ - [L]
 
-<IfModule mod_mime.c>
- AddType image/webp .webp
-</IfModule>
-# END SMUSH-WEBP
-<IfModule mod_rewrite.c>
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^.*-goods-(\d+)/$ productl/index\.php?id=$1&%{QUERY_STRING} [L]
-RewriteRule ^(.*)-j\d+/$ productl/index\.php?cat=$1&%{QUERY_STRING} [L]
-RewriteRule ^.*(web[a-z]+gmap\.xml)$  gmap/$1 [L]
-RewriteRule ^.*(sitemap\.xml)$  gmap/$1 [L]
+# Pass through real files and directories (assets, images, etc.)
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
 
-RewriteBase /
-</IfModule>
+# Redirect old .php URLs to clean URLs
+RewriteCond %{THE_REQUEST} \s/+(.+)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
 
-
+# All other requests go to router
+RewriteRule ^(.*)$ router.php [L]
