@@ -23,7 +23,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="bukhara-city-tour.php">
+										<a href="/jahongir-trave-001/tours/bukhara/city-tour">
 											<span class="price">From $30.00</span>
 											<img width="430" height="305" src="/jahongir-trave-001/images/samanids-mausoleum-bukhara.jpg" alt="samanids-mausoleum-bukhara" title="samanids-mausoleum-bukhara">
 										</a>
@@ -31,7 +31,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="bukhara-city-tour.php" rel="bookmark">Bukhara city tour</a>
+											<a href="/jahongir-trave-001/tours/bukhara/city-tour" rel="bookmark">Bukhara city tour</a>
 										</h4></div>
 										<span class="post_date">Day trip</span>
 										<div class="description">
@@ -46,14 +46,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="bukhara-city-tour.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/bukhara/city-tour" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="bukhara-yurt-camp-samarkand.php">
+										<a href="/jahongir-trave-001/tours/bukhara/yurt-camp-samarkand">
 											<span class="price">From $125.00									
 											</span>
 											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-overview.jpg" alt="yurt-camp-aydarkul-tour-from-bukhara" title="yurt-camp-aydarkul-tour-from-bukhara">
@@ -61,7 +61,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="bukhara-yurt-camp-samarkand.php" rel="bookmark">Tour from Bukhara to Yurt Camp</a>
+											<a href="/jahongir-trave-001/tours/bukhara/yurt-camp-samarkand" rel="bookmark">Tour from Bukhara to Yurt Camp</a>
 										</h4></div>
 										<span class="post_date">2 DAYS 1 NIGHT</span>
 										<div class="description">
@@ -76,14 +76,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="bukhara-yurt-camp-samarkand.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/bukhara/yurt-camp-samarkand" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="bukhara-nurata-2d-1n.php">
+										<a href="/jahongir-trave-001/tours/bukhara/nurata-2d-1n">
 											<span class="price">From $130.00</span>
 											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/climbing-nuratau.jpg" alt="hiking-nuratau-tour-climbing-nuratau" title="hiking-nuratau-tour-climbing-nuratau">
 										</a>
@@ -91,7 +91,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="bukhara-nurata-2d-1n.php" rel="bookmark">Tour from Bukhara to Nuratau</a>
+											<a href="/jahongir-trave-001/tours/bukhara/nurata-2d-1n" rel="bookmark">Tour from Bukhara to Nuratau</a>
 										</h4></div>
 										<span class="post_date">2 DAYS 1 NIGHT</span>
 										<div class="description">
@@ -106,14 +106,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="bukhara-nurata-2d-1n.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/bukhara/nurata-2d-1n" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="bukhara-nuratau-3d-2n.php">
+										<a href="/jahongir-trave-001/tours/bukhara/nuratau-3d-2n">
 											<span class="price">From $20.00</span>
 											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="tour-from-bukhara-hayat-nuratau-hiking" title="tour-from-bukhara-hayat-nuratau-hiking">
 										</a>
@@ -121,7 +121,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="bukhara-nuratau-3d-2n.php" rel="bookmark">Tour from Bukhara to Nuratau 3 days 2 nights</a>
+											<a href="/jahongir-trave-001/tours/bukhara/nuratau-3d-2n" rel="bookmark">Tour from Bukhara to Nuratau 3 days 2 nights</a>
 										</h4></div>
 										<span class="post_date">3 DAYS 2 NIGHTS</span>
 										<div class="description">
@@ -136,21 +136,21 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="bukhara-nuratau-3d-2n.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/bukhara/nuratau-3d-2n" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="bukhara-nuratau-4d-3n.php">
+										<a href="/jahongir-trave-001/tours/bukhara/nuratau-4d-3n">
 											<span class="price">From $20.00</span>
 											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-nuratau.jpg" alt="tour-from-bukhara-nuratau-mountains" title="tour-from-bukhara-nuratau-mountains">
 										</a>
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="bukhara-nuratau-4d-3n.php" rel="bookmark">Extended tour from Bukhara to Yurt Camp - Nuratau</a>
+											<a href="/jahongir-trave-001/tours/bukhara/nuratau-4d-3n" rel="bookmark">Extended tour from Bukhara to Yurt Camp - Nuratau</a>
 										</h4></div>
 										<span class="post_date">4 DAYS 3 NIGHTS</span>
 										<div class="description">
@@ -165,7 +165,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="bukhara-nuratau-4d-3n.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/bukhara/nuratau-4d-3n" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -178,5 +178,6 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+
 
 
