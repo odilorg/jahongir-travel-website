@@ -21,7 +21,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="yurt-camp-tour.php">
+										<a href="/jahongir-trave-001/tours/samarkand/yurt-camp-tour">
 											<span class="price">From $95.00									
 											</span>
 											
@@ -31,7 +31,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="yurt-camp-tour.php" rel="bookmark">Tour from Samarkand to Yurt Camp</a>
+											<a href="/jahongir-trave-001/tours/samarkand/yurt-camp-tour" rel="bookmark">Tour from Samarkand to Yurt Camp</a>
 										</h4></div>
 										<span class="post_date">2 DAYS 1 NIGHT</span>
 										<div class="description">
@@ -46,14 +46,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="yurt-camp-tour.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/yurt-camp-tour" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="nuratau-homestay-2-days.php">
+										<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-2-days">
 											<span class="price">From $115.00</span>
 											<img width="430" height="305" src="images/nuratau/hiking-nuratau-tour.jpg" alt="hiking-nuratau-tour" title="hiking-nuratau-tour">
 										</a>
@@ -61,7 +61,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="nuratau-homestay-2-days.php" rel="bookmark">Tour from Samarkand to Nuratau</a>
+											<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-2-days" rel="bookmark">Tour from Samarkand to Nuratau</a>
 										</h4></div>
 										<span class="post_date">2 DAYS 1 NIGHT</span>
 										<div class="description">
@@ -76,7 +76,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="nuratau-homestay-2-days.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-2-days" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -113,7 +113,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="daytrip-urgut-bazar-konigul-village.php">
+										<a href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village">
 											<span class="price">From $30.00</span>
 											<img width="430" height="305" src="images/430x305/urgut-market-tour.jpg" alt="old-woman-selling-suzani-urgut-market" title="Urgut market tour">
 										</a>
@@ -121,7 +121,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="daytrip-urgut-bazar-konigul-village.php" rel="bookmark">Silk Carpet, Paper Factory and Urgut Bazaar tour</a>
+											<a href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village" rel="bookmark">Silk Carpet, Paper Factory and Urgut Bazaar tour</a>
 										</h4></div>
 										<span class="post_date">DAY TOUR</span>
 										<div class="description">
@@ -136,14 +136,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="daytrip-urgut-bazar-konigul-village.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="daytrip-shahrisabz.php">
+										<a href="/jahongir-trave-001/tours/samarkand/shahrisabz-day-trip">
 											<span class="price">From $30.00</span>
 											<img width="430" height="305" src="images/430x305/dorus-siadat-shahrisabz-day-tour.jpg" alt="mausoleum-jahangir-shahrisabz" title="Day tour Shahrisabz">
 										</a>
@@ -151,7 +151,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="daytrip-shahrisabz.php" rel="bookmark">Day tour to Shahrisabz</a>
+											<a href="/jahongir-trave-001/tours/samarkand/shahrisabz-day-trip" rel="bookmark">Day tour to Shahrisabz</a>
 										</h4></div>
 										<span class="post_date">DAY TOUR</span>
 										<div class="description">
@@ -166,7 +166,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="daytrip-shahrisabz.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/shahrisabz-day-trip" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
@@ -176,7 +176,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="nuratau-homestay-3-days.php">
+										<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-3-days">
 											<span class="price">From $135.00</span>
 											<img width="430" height="305" src="images/430x305/homestay-nuratau-eco-tour-3days.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
 										</a>
@@ -184,7 +184,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="nuratau-homestay-3-days.php" rel="bookmark">Nuratau Homestay in Asraf village</a>
+											<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-3-days" rel="bookmark">Nuratau Homestay in Asraf village</a>
 										</h4></div>
 										<span class="post_date">3 DAYS 2 NIGHTS</span>
 										<div class="description">
@@ -199,14 +199,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="nuratau-homestay-3-days.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-3-days" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="nuratau-homestay-4-days.php">
+										<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-4-days">
 											<span class="price">From $190.00</span>
 											<img width="430" height="305" src="images/nuratau/asraf-boy-on-the-phone.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
 										</a>
@@ -214,7 +214,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="nuratau-homestay-4-days.php" rel="bookmark">Nuratau Homestay combined with Yurt Camp</a>
+											<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-4-days" rel="bookmark">Nuratau Homestay combined with Yurt Camp</a>
 										</h4></div>
 										<span class="post_date">4 DAYS 3 NIGHTS</span>
 										<div class="description">
@@ -229,14 +229,14 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="nuratau-homestay-4-days.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-4-days" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 								</div>
 							</li>
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="samarkand-city-tour.php">
+										<a href="/jahongir-trave-001/tours/samarkand/city-tour">
 											<span class="price">From $45.00</span>
 											<img width="430" height="305" src="images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
 										</a>
@@ -244,7 +244,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="samarkand-city-tour.php" rel="bookmark">Samarkand culture, history and architecture tour</a>
+											<a href="/jahongir-trave-001/tours/samarkand/city-tour" rel="bookmark">Samarkand culture, history and architecture tour</a>
 										</h4></div>
 										<span class="post_date">Day tour</span>
 										<div class="description">
@@ -260,7 +260,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="samarkand-city-tour.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/city-tour" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 
 								</div>
@@ -268,7 +268,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="hiking-amankutan.php">
+										<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan">
 											<span class="price">From $75.00</span>
 											<img width="430" height="305" src="images/aman-kutan/lions-cave-aman-kutan.jpg" alt="stay-with-family-nuratau-asraf-village" title="Trip to Lion's Cave">
 										</a>
@@ -276,7 +276,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="hiking-amankutan.php" rel="bookmark">Trip to Lion's Cave</a>
+											<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan" rel="bookmark">Trip to Lion's Cave</a>
 										</h4></div>
 										<span class="post_date">Day tour</span>
 										<div class="description">
@@ -291,7 +291,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="hiking-amankutan.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/hiking-amankutan" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 
 								</div>
@@ -299,7 +299,7 @@
 							<li class="item-tour col-md-4 col-sm-6 product">
 								<div class="item_border item-product">
 									<div class="post_images">
-										<a href="hiking-amankutan-shahrisabz.php">
+										<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan-shahrisabz">
 											<span class="price">From $90.00</span>
 											<img width="430" height="305" src="images/shahrisabz/tahtakaracha-pass.jpg" alt="mountain-pass-shahrisabz" title="Aman kutan and Shahrisabz tour">
 										</a>
@@ -307,7 +307,7 @@
 									</div>
 									<div class="wrapper_content">
 										<div class="post_title"><h4>
-											<a href="hiking-amankutan-shahrisabz.php" rel="bookmark">Aman Kutan and Shahrisabz tour</a>
+											<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan-shahrisabz" rel="bookmark">Aman Kutan and Shahrisabz tour</a>
 										</h4></div>
 										<span class="post_date">2 days 1 night</span>
 										<div class="description">
@@ -322,7 +322,7 @@
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
-										<a rel="nofollow" href="hiking-amankutan-shahrisabz.php" class="button product_type_tour_phys add_to_cart_button">Read more</a>
+										<a rel="nofollow" href="/jahongir-trave-001/tours/samarkand/hiking-amankutan-shahrisabz" class="button product_type_tour_phys add_to_cart_button">Read more</a>
 									</div>
 									
 								</div>
@@ -336,3 +336,4 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+
