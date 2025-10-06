@@ -25,7 +25,7 @@
 											<span class="price">From $95.00									
 											</span>
 											
-											<img width="430" height="305" src="/jahongir-trave-001/images/yurt-camp-aydarkul/yurt-camp-aydarkul.jpg" alt="yurt-camp-aydarkul-tour-from-samarkand" title="yurt-camp-aydarkul-tour-from-samarkand">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-camp-aydarkul.jpg" alt="yurt-camp-aydarkul-tour-from-samarkand" title="yurt-camp-aydarkul-tour-from-samarkand">
 										</a>
 										
 									</div>
@@ -55,7 +55,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-2-days">
 											<span class="price">From $115.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/nuratau/hiking-nuratau-tour.jpg" alt="hiking-nuratau-tour" title="hiking-nuratau-tour">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hiking-nuratau-tour.jpg" alt="hiking-nuratau-tour" title="hiking-nuratau-tour">
 										</a>
 										
 									</div>
@@ -115,7 +115,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village">
 											<span class="price">From $30.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/430x305/urgut-market-tour.jpg" alt="old-woman-selling-suzani-urgut-market" title="Urgut market tour">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/430x305/urgut-market-tour.jpg" alt="old-woman-selling-suzani-urgut-market" title="Urgut market tour">
 										</a>
 										
 									</div>
@@ -145,7 +145,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/shahrisabz-day-trip">
 											<span class="price">From $30.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/430x305/dorus-siadat-shahrisabz-day-tour.jpg" alt="mausoleum-jahangir-shahrisabz" title="Day tour Shahrisabz">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/430x305/dorus-siadat-shahrisabz-day-tour.jpg" alt="mausoleum-jahangir-shahrisabz" title="Day tour Shahrisabz">
 										</a>
 										
 									</div>
@@ -178,7 +178,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-3-days">
 											<span class="price">From $135.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/430x305/homestay-nuratau-eco-tour-3days.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/430x305/homestay-nuratau-eco-tour-3days.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
 										</a>
 										
 									</div>
@@ -208,7 +208,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/nuratau-homestay-4-days">
 											<span class="price">From $190.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/nuratau/asraf-boy-on-the-phone.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/asraf-boy-on-the-phone.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
 										</a>
 										
 									</div>
@@ -238,7 +238,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/city-tour">
 											<span class="price">From $45.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg" alt="stay-with-family-nuratau-asraf-village" title="Home stay 3 days tour">
 										</a>
 										
 									</div>
@@ -270,7 +270,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan">
 											<span class="price">From $75.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/aman-kutan/lions-cave-aman-kutan.jpg" alt="stay-with-family-nuratau-asraf-village" title="Trip to Lion's Cave">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/lions-cave-aman-kutan.jpg" alt="stay-with-family-nuratau-asraf-village" title="Trip to Lion's Cave">
 										</a>
 										
 									</div>
@@ -301,7 +301,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan-shahrisabz">
 											<span class="price">From $90.00</span>
-											<img width="430" height="305" src="/jahongir-trave-001/images/shahrisabz/tahtakaracha-pass.jpg" alt="mountain-pass-shahrisabz" title="Aman kutan and Shahrisabz tour">
+											<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/tahtakaracha-pass.jpg" alt="mountain-pass-shahrisabz" title="Aman kutan and Shahrisabz tour">
 										</a>
 										
 									</div>
@@ -336,5 +336,6 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+
 
 
