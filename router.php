@@ -4,8 +4,8 @@
  * Using steampixel/simple-php-router
  */
 
-// Autoload files using composer
-require_once __DIR__ . '/vendor/autoload.php';
+// Autoload files using composer (located in parent directory)
+require_once __DIR__ . '/../vendor/autoload.php';
 
 // Use this namespace
 use Steampixel\Route;
