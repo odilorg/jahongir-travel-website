@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://jahongir-travel.uz/sitemap.xml
+
+# Disallow admin areas (if any exist)
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /phpmailer/
+
+# Allow all tour content
+Allow: /tours-from-samarkand/
+Allow: /tours-from-bukhara/
+Allow: /tours-from-khiva/
+Allow: /uzbekistan-tours/
+Allow: /tajikistan-tours/
+Allow: /images/
+Allow: /assets/

@@ -1,0 +1,141 @@
+# Jahongir Travel Website - Git Ignore File
+# CRITICAL: Never commit sensitive data to GitHub
+
+# ===========================================
+# SENSITIVE DATA - NEVER COMMIT THESE
+# ===========================================
+
+# Email credentials and SMTP settings
+mailer-tours.php
+mailer.php
+phpmailer/
+*mailer*.php
+smtp_*.php
+email_config.php
+
+# Contact form submissions and logs
+contact_submissions/
+form_logs/
+submission_*.txt
+contact_logs/
+
+# Database files and credentials
+*.sql
+*.sqlite
+*.db
+database.php
+db_config.php
+config/database.php
+
+# API keys and secrets
+api_keys.php
+secrets.php
+*.key
+*.pem
+*.p12
+.env
+.env.local
+.env.production
+.env.staging
+
+# User data and uploads
+uploads/
+user_data/
+customer_data/
+booking_data/
+*.csv
+*.xlsx
+*.xls
+
+# Session and cache files
+sessions/
+cache/
+*.cache
+session_*
+
+# Log files (may contain sensitive info)
+*.log
+error_log
+access_log
+debug.log
+security.log
+
+# ===========================================
+# BACKUP AND TEMPORARY FILES
+# ===========================================
+
+# Backup files
+backup_*.zip
+*.backup
+*.bak
+backups/
+restore_*/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ===========================================
+# DEVELOPMENT FILES
+# ===========================================
+
+# Composer
+/vendor/
+composer.lock
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node modules (if using any frontend build tools)
+node_modules/
+npm-debug.log*
+
+# Build directories
+build/
+dist/
+
+# ===========================================
+# KEEP THESE FILES (SAFE TO COMMIT)
+# ===========================================
+
+# Keep important files
+!composer.json
+!README.md
+!LICENSE
+!robots.txt
+!sitemap.xml
+!index.php
+!aboutus.php
+!contact.php
+!includes/
+!assets/
+!images/
+!tours-*/
+
+# ===========================================
+# SECURITY NOTES
+# ===========================================
+
+# REMEMBER:
+# - Never commit email passwords or SMTP credentials
+# - Never commit database passwords or connection strings  
+# - Never commit API keys or secret tokens
+# - Never commit customer data or booking information
+# - Never commit session files or user uploads
+# - Always review files before committing with: git status
+# - Use: git check-ignore <file> to verify files are ignored

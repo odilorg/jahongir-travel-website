@@ -1,0 +1,8 @@
+{
+    "name": "jahongir-travel/website",
+    "description": "Jahongir Travel Website with Clean URLs",
+    "type": "project",
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
