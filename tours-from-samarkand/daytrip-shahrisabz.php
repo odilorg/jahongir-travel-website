@@ -3,7 +3,7 @@
 <?php include 'includes/header.php'; ?>
 
 <div class="site wrapper-content">
-	<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+	<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 		<div class="banner-wrapper container article_heading">
 			<div class="breadcrumbs-wrapper">
 				<ul class="phys-breadcrumb">
@@ -98,7 +98,7 @@
 												<div class="content-inner">
 													<div class="row">
 														<div class="col-sm-2">
-															<img width="145" height="92" src="images/logo-brown.png" class="vc_single_image-img attachment-full" alt="">
+															<img width="145" height="92" src="/jahongir-trave-001/images/logo-brown.png" class="vc_single_image-img attachment-full" alt="">
 														</div>
 														<div class="col-sm-10">
 															<p>Jahongir Travel is based in Samarkand – Uzbekistan. Opened as hotel/guest house in 2009 Jahongir b&b has become one of the top places to stay in Samarkand. As we gained the valuable experience operating the business in Uzbekistan, throughout these years the idea to serve a larger group of people eventually led to opening the separate department “the Tour Operator of Uzbekistan and the Central Asia”</p>
@@ -230,7 +230,7 @@
 															</tr>
 															<tr>
 																<td>
-																	<a href="tours/day-tour-shahrisabz.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Day tour to Shahrisabz</a>
+																	<a href="tours/day-tour-shahrisabz.pdf"><img src="/jahongir-trave-001/images/pdf-download.png" alt="pdf-file-download">Day tour to Shahrisabz</a>
 																</td>
 															</tr>
 														</tbody>
@@ -334,8 +334,8 @@
 
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/on-way-shahrisabz-pass.jpg">
-															<img src="images/shahrisabz/on-way-shahrisabz-pass.jpg" alt="on-way-shahrisabz-pass">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/on-way-shahrisabz-pass.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/on-way-shahrisabz-pass.jpg" alt="on-way-shahrisabz-pass">
 														</a>
 														<div class="caption">
 															<h3>Road to Pass to Shahrisabz </h3>
@@ -345,8 +345,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/stone-hole-teshik-tash-shahrisabz.jpg">
-															<img src="images/shahrisabz/stone-hole-teshik-tash-shahrisabz.jpg" alt="stone-hole-teshik-tosh-shahrisabz">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/stone-hole-teshik-tash-shahrisabz.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/stone-hole-teshik-tash-shahrisabz.jpg" alt="stone-hole-teshik-tosh-shahrisabz">
 														</a>
 														<div class="caption">
 															<h3>"Apachen" movie scene</h3>
@@ -356,8 +356,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/teshik-tosh-rock-with-hole-aman-kutan.jpg">
-															<img src="images/shahrisabz/teshik-tosh-rock-with-hole-aman-kutan.jpg" alt="teshik-tosh-rock-with-hole-aman-kutan">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/teshik-tosh-rock-with-hole-aman-kutan.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/teshik-tosh-rock-with-hole-aman-kutan.jpg" alt="teshik-tosh-rock-with-hole-aman-kutan">
 														</a>
 														<div class="caption">
 															<h3>Teshik Tosh "Rock with hole" </h3>
@@ -367,8 +367,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/tahtakaracha-pass.jpg">
-															<img src="images/shahrisabz/tahtakaracha-pass.jpg" alt="tahtakaracha-pass">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/tahtakaracha-pass.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/tahtakaracha-pass.jpg" alt="tahtakaracha-pass">
 														</a>
 														<div class="caption">
 															<h3>Kashkadarya side of the Pass</h3>
@@ -378,8 +378,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/mountain-pass-tahtakaracha-shahrisabz.jpg">
-															<img src="images/shahrisabz/mountain-pass-tahtakaracha-shahrisabz.jpg" alt="mountain-pass-tahtakaracha-shahrisabz">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/mountain-pass-tahtakaracha-shahrisabz.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/mountain-pass-tahtakaracha-shahrisabz.jpg" alt="mountain-pass-tahtakaracha-shahrisabz">
 														</a>
 														<div class="caption">
 															<h3>Mountain pass Tahtakaracha </h3>
@@ -389,8 +389,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/mosque-inside-dorus-siadat-shahrisabz.jpg">
-															<img src="images/shahrisabz/mosque-inside-dorus-siadat-shahrisabz.jpg" alt="mosque-inside-dorus-siadat-shahrisabz">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/mosque-inside-dorus-siadat-shahrisabz.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/mosque-inside-dorus-siadat-shahrisabz.jpg" alt="mosque-inside-dorus-siadat-shahrisabz">
 														</a>
 														<div class="caption">
 															<h3>Mosque Dorus Siadat</h3>
@@ -400,8 +400,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/dorus-tilavat-kok-gumbaz-shahrisabz.jpg">
-															<img src="images/shahrisabz/dorus-tilavat-kok-gumbaz-shahrisabz.jpg" alt="kok-gumbaz-built-ulugbek-father-timur">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/dorus-tilavat-kok-gumbaz-shahrisabz.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/dorus-tilavat-kok-gumbaz-shahrisabz.jpg" alt="kok-gumbaz-built-ulugbek-father-timur">
 														</a>
 														<div class="caption">
 															<h3>Kok Gumbaz in Shahrisabz</h3>
@@ -411,8 +411,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/dorus-siadat-shahrisabz.jpg">
-															<img src="images/shahrisabz/dorus-siadat-shahrisabz.jpg" alt="mausoleum-jahangir-shahrisabz">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/dorus-siadat-shahrisabz.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/dorus-siadat-shahrisabz.jpg" alt="mausoleum-jahangir-shahrisabz">
 														</a>
 														<div class="caption">
 															<h3>Dorus Siadat complex in Shahrisabz</h3>
@@ -422,8 +422,8 @@
 												</div>
 												<div class="col-sm-6 col-md-4">
 													<div class="thumbnail">
-														<a class="lightbox" href="images/shahrisabz/amir-temur-statue-shahrisabz-ak-saray.jpg">
-															<img src="images/shahrisabz/amir-temur-statue-shahrisabz-ak-saray.jpg" alt="amir-temur-palace-ak-saray-statue">
+														<a class="lightbox" href="/jahongir-trave-001/images/shahrisabz/amir-temur-statue-shahrisabz-ak-saray.jpg">
+															<img src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/amir-temur-statue-shahrisabz-ak-saray.jpg" alt="amir-temur-palace-ak-saray-statue">
 														</a>
 														<div class="caption">
 															<h3>Amir Temur Statue in Shahrisabz</h3>
@@ -455,7 +455,7 @@
 										<div class="post_images">
 											<a href="samarkand-city-tour.php">
 
-												<img width="430" height="305" src="images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg" alt="gilded-dome-tilla-kori" title="Samarkand city tour">
+												<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg" alt="gilded-dome-tilla-kori" title="Samarkand city tour">
 											</a>
 
 										</div>
@@ -482,7 +482,7 @@
 											<a href="yurt-camp-tour.php">
 
 
-												<img width="430" height="305" src="images/430x305/yurt-camp-aydarkul-tour.jpg" alt="yurt-camp-yangigazgan" title="tour to yurt camp">
+												<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/430x305/yurt-camp-aydarkul-tour.jpg" alt="yurt-camp-yangigazgan" title="tour to yurt camp">
 											</a>
 
 										</div>
@@ -508,7 +508,7 @@
 										<div class="post_images">
 											<a href="nuratau-homestay-3-days.php">
 
-												<img width="430" height="305" src="images/430x305/homestay-nuratau-eco-tour.jpg" alt="horse-riding-nuratau-mountains" title="uzbekistan homestay in nuratau">
+												<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/430x305/homestay-nuratau-eco-tour.jpg" alt="horse-riding-nuratau-mountains" title="uzbekistan homestay in nuratau">
 											</a>
 
 										</div>
@@ -556,7 +556,7 @@
 				<div class="wrapper-special-tours">
 					<div class="inner-special-tours">
 						<a href="daytrip-urgut-bazar-konigul-village.php">
-							<img width="430" height="305" src="images/urgut/urgut-market-fabrics.jpg" alt="" title="fabrics-urgut-market"></a>
+							<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="" title="fabrics-urgut-market"></a>
 
 						<div class="post_title">
 							<h3>
@@ -570,7 +570,7 @@
 					<div class="inner-special-tours">
 						<a href="hiking-amankutan.php">
 
-							<img width="430" height="305" src="images/aman-kutan/aman-kutan-mountain-hiking.jpg" alt="mountain-pass-tahtakaracha-shahrisabz" title="shahrisabz-day-tour"></a>
+							<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking.jpg" alt="mountain-pass-tahtakaracha-shahrisabz" title="shahrisabz-day-tour"></a>
 
 						<div class="post_title">
 							<h3>
@@ -583,7 +583,7 @@
 					</div>
 					<div class="inner-special-tours">
 						<a href="nuratau-homestay-2-days.php">
-							<img width="430" height="305" src="images/nuratau/homestay-in-nuratau-mountains.jpg" alt="family-asraf-village" title="homestay-nuratau-2-days">
+							<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/homestay-in-nuratau-mountains.jpg" alt="family-asraf-village" title="homestay-nuratau-2-days">
 						</a>
 
 						<div class="post_title">
@@ -606,3 +606,4 @@
 </section>
 </div>
 <?php include 'uzbekistan-tours/includes/footer-carousel.php'; ?>
+

@@ -3,7 +3,7 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -174,7 +174,7 @@
 														</tr>
 														<tr>
 															<td>
-																<a href ="tours/samarkand-city-tour.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Samarkand city tour</a>
+																<a href ="tours/samarkand-city-tour.pdf"><img src="/jahongir-trave-001/images/pdf-download.png" alt="pdf-file-download">Samarkand city tour</a>
 															</td>
 														</tr>
 														</tbody>
@@ -274,7 +274,7 @@
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
-															<img alt="" src="images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
+															<img alt="" src="/jahongir-trave-001/images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
 															<div class="comment-text">
 																<div class="star-rating" title="Rated 4 out of 5">
 																	<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
@@ -339,8 +339,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/registan-ensemble-samarkand.jpg">
-                        <img src="images/samarkand-city-tour/registan-ensemble-samarkand.jpg" alt="registan-ensemble-samarkand-uzbekistan">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/registan-ensemble-samarkand.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/registan-ensemble-samarkand.jpg" alt="registan-ensemble-samarkand-uzbekistan">
                     </a>
                     <div class="caption">
                         <h3>Spectacular Registan</h3>
@@ -350,8 +350,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/gur-emir-mausoleum.jpg">
-                        <img src="images/samarkand-city-tour/gur-emir-mausoleum.jpg" alt="gur-emir-mausoleum-samarkand-uzbekistan">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/gur-emir-mausoleum.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/gur-emir-mausoleum.jpg" alt="gur-emir-mausoleum-samarkand-uzbekistan">
                     </a>
                     <div class="caption">
                         <h3>Gur Emir Mausoleum</h3>
@@ -361,8 +361,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/tilla-kori-madrasah-registan.jpg">
-                        <img src="images/samarkand-city-tour/tilla-kori-madrasah-registan.jpg" alt="tilla-kori-madrasah-registan">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/tilla-kori-madrasah-registan.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/tilla-kori-madrasah-registan.jpg" alt="tilla-kori-madrasah-registan">
                     </a>
                     <div class="caption">
                         <h3>Tilla Kori Madrasah in Registan</h3>
@@ -372,8 +372,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/ribbed-dome-gur-emir.jpg">
-                        <img src="images/samarkand-city-tour/ribbed-dome-gur-emir.jpg" alt="ribbed-dome-gur-emir">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/ribbed-dome-gur-emir.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/ribbed-dome-gur-emir.jpg" alt="ribbed-dome-gur-emir">
                     </a>
                     <div class="caption">
                         <h3>Magnificient dome of Gur Emir</h3>
@@ -383,8 +383,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg">
-                        <img src="images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah">
                     </a>
                     <div class="caption">
                         <h3>Interior Decor of Tilla Kori Madrasah</h3>
@@ -394,8 +394,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg">
-                        <img src="images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg" alt="sherdor-facade-registan-samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg" alt="sherdor-facade-registan-samarkand">
                     </a>
                     <div class="caption">
                         <h3>Splendid Mosaic Tiles of Sherdor Madrasah</h3>
@@ -405,8 +405,8 @@
             </div>
              <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg">
-                        <img src="images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg" alt="giilded-dome-tilla-kori-registan-ensemble">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg" alt="giilded-dome-tilla-kori-registan-ensemble">
                     </a>
                     <div class="caption">
                         <h3>Mesmerizing Interior Dome of Tilla Kori Madrasah</h3>
@@ -416,8 +416,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/ceramic-detail-shahi-zinda-necropolis.jpg">
-                        <img src="images/samarkand-city-tour/ceramic-detail-shahi-zinda-necropolis.jpg" alt="ceramic-detail-shahi-zinda-necropolis">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/ceramic-detail-shahi-zinda-necropolis.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/ceramic-detail-shahi-zinda-necropolis.jpg" alt="ceramic-detail-shahi-zinda-necropolis">
                     </a>
                     <div class="caption">
                         <h3>Ceramic Detail in Shah-i-Zinda Necropolis</h3>
@@ -427,8 +427,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/samarkand-city-tour/blue-majolica-ceramic-detail-shahi-zinda-necropolis.jpg">
-                        <img src="images/samarkand-city-tour/blue-majolica-ceramic-detail-shahi-zinda-necropolis.jpg" alt="samarkand-city-tour">
+                    <a class="lightbox" href="/jahongir-trave-001/images/samarkand-city-tour/blue-majolica-ceramic-detail-shahi-zinda-necropolis.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/blue-majolica-ceramic-detail-shahi-zinda-necropolis.jpg" alt="samarkand-city-tour">
                     </a>
                     <div class="caption">
                         <h3>Blue Tile Detail in Shah-i-Zinda Necropolis</h3>
@@ -449,7 +449,7 @@
 											<div class="post_images">
 												<a href="daytrip-shahrisabz.php">
 													
-													<img width="430" height="305" src="images/shahrisabz/dorus-siadat-shahrisabz.jpg" alt="mausoleum-jahangir-dorus-siadat" title="Day tour to Shahrisabz">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/dorus-siadat-shahrisabz.jpg" alt="mausoleum-jahangir-dorus-siadat" title="Day tour to Shahrisabz">
 												</a>
 												
 											</div>
@@ -472,7 +472,7 @@
 										<div class="item_border item-product">
 											<div class="post_images">
 												<a href="yurt-camp-tour.php">
-													<img width="430" height="305" src="images/430x305/yurt-camp-aydarkul-tour.jpg" alt="yurt-camp-yangigazgan" title="tour to yurt camp">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/430x305/yurt-camp-aydarkul-tour.jpg" alt="yurt-camp-yangigazgan" title="tour to yurt camp">
 												</a>
 												
 											</div>
@@ -496,7 +496,7 @@
 											<div class="post_images">
 												<a href="nuratau-homestay-3-days.php">
 													
-													<img width="430" height="305" src="images/430x305/homestay-nuratau-eco-tour.jpg" alt="horse-riding-nuratau-mountains" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/430x305/homestay-nuratau-eco-tour.jpg" alt="horse-riding-nuratau-mountains" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -552,7 +552,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="daytrip-urgut-bazar-konigul-village.php">
-													<img width="430" height="305" src="images/Urgut/urgut-market-fabrics.jpg" alt="" title="fabrics-urgut-market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="" title="fabrics-urgut-market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="daytrip-urgut-bazar-konigul-village.php" rel="bookmark">Visit Urgut market</a>
@@ -564,7 +564,7 @@
 											<div class="inner-special-tours">
 												<a href="hiking-amankutan.php">
 													
-													<img width="430" height="305" src="images/aman-kutan/aman-kutan-mountain-hiking.jpg" alt="mountain-pass-tahtakaracha-shahrisabz" title="shahrisabz-day-tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking.jpg" alt="mountain-pass-tahtakaracha-shahrisabz" title="shahrisabz-day-tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="hiking-amankutan.php" rel="bookmark">Hiking in Aman Kutan</a>
@@ -575,7 +575,7 @@
 											</div>
 											<div class="inner-special-tours">
 												<a href="yurt-camp-tour.php">
-													<img width="430" height="305" src="images/yurt-camp-aydarkul/camel-riding-nuratau.jpg" alt="camel-riding-yurt-camp" title="Yurt Camp Aydarkul tour">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/camel-riding-nuratau.jpg" alt="camel-riding-yurt-camp" title="Yurt Camp Aydarkul tour">
 												</a>
 												
 												<div class="post_title"><h3>
@@ -596,3 +596,4 @@
 		</section>
 	</div>
 <?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+

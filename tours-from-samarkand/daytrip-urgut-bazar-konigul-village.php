@@ -3,7 +3,7 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -176,7 +176,7 @@
 														</tr>
 														<tr>
 															<td>
-																<a href ="tours/urgut-konigil.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Day tour to Urgut Market, silk carpet, paper factory</a>
+																<a href ="tours/urgut-konigil.pdf"><img src="/jahongir-trave-001/images/pdf-download.png" alt="pdf-file-download">Day tour to Urgut Market, silk carpet, paper factory</a>
 															</td>
 														</tr>
 														</tbody>
@@ -247,7 +247,7 @@
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
-															<img alt="" src="images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
+															<img alt="" src="/jahongir-trave-001/images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
 															<div class="comment-text">
 																<div class="star-rating" title="Rated 4 out of 5">
 																	<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
@@ -313,8 +313,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/konigil-paper-factory.jpg">
-                        <img src="images/urgut/konigil-paper-factory.jpg" alt="clay-house-konigil">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/konigil-paper-factory.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/konigil-paper-factory.jpg" alt="clay-house-konigil">
                     </a>
                     <div class="caption">
                         <h3>Silk Paper Factory in Samarkand</h3>
@@ -324,8 +324,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/water-mill-konigil-paper-factory.jpg">
-                        <img src="images/urgut/water-mill-konigil-paper-factory.jpg" alt="water-mill-konigil">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/water-mill-konigil-paper-factory.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/water-mill-konigil-paper-factory.jpg" alt="water-mill-konigil">
                     </a>
                     <div class="caption">
                         <h3>Water Mill in Konigil village</h3>
@@ -335,8 +335,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/paper-making-process-konigil.jpg">
-                        <img src="images/urgut/paper-making-process-konigil.jpg" alt="items-made-silk-paper-konigil">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/paper-making-process-konigil.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/paper-making-process-konigil.jpg" alt="items-made-silk-paper-konigil">
                     </a>
                     <div class="caption">
                         <h3>Paper making process, items made of silk paper</h3>
@@ -346,8 +346,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/numon-kulol-pottery-urgut.jpg">
-                        <img src="images/urgut/numon-kulol-pottery-urgut.jpg" alt="pottery-whell-urgut-numon-kulol">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/numon-kulol-pottery-urgut.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/numon-kulol-pottery-urgut.jpg" alt="pottery-whell-urgut-numon-kulol">
                     </a>
                     <div class="caption">
                         <h3>Pottery Workshop in Urgut</h3>
@@ -357,8 +357,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/numon-kulol-worshop.jpg">
-                        <img src="images/urgut/numon-kulol-worshop.jpg" alt="ceramic-items-ready-fire-urgut">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/numon-kulol-worshop.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/numon-kulol-worshop.jpg" alt="ceramic-items-ready-fire-urgut">
                     </a>
                     <div class="caption">
                         <h3>Pottery ready to fire in Workshop</h3>
@@ -368,8 +368,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/silk-carpet-making-process-samarkand.jpg">
-                        <img src="images/urgut/silk-carpet-making-process-samarkand.jpg" alt="women-weaving-knots-silk-carpet">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/silk-carpet-making-process-samarkand.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/silk-carpet-making-process-samarkand.jpg" alt="women-weaving-knots-silk-carpet">
                     </a>
                     <div class="caption">
                         <h3>Women at work in Silk Carpet Factory Samarkand</h3>
@@ -379,8 +379,8 @@
             </div>
              <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/silk-carpet-showroom-samarkand.png">
-                        <img src="images/urgut/silk-carpet-showroom-samarkand.png" alt="silk-carpet-demonstartion-samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/silk-carpet-showroom-samarkand.png">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/silk-carpet-showroom-samarkand.png" alt="silk-carpet-demonstartion-samarkand">
                     </a>
                     <div class="caption">
                         <h3>Samarkand Silk Carpets Demo</h3>
@@ -390,8 +390,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/suzani-market-urgut-30km-samarkand.jpg">
-                        <img src="images/urgut/suzani-market-urgut-30km-samarkand.jpg" alt="old-lady-showcasing-samarkand-suzani-urgut">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/suzani-market-urgut-30km-samarkand.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/suzani-market-urgut-30km-samarkand.jpg" alt="old-lady-showcasing-samarkand-suzani-urgut">
                     </a>
                     <div class="caption">
                         <h3>Suzani Market in Urgut 30km from Samarkand</h3>
@@ -401,8 +401,8 @@
             </div>
            <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/urgut/chor-chinor-urgut.jpg">
-                        <img src="images/urgut/chor-chinor-urgut.jpg" alt="ancient-huge-plane-tree-school">
+                    <a class="lightbox" href="/jahongir-trave-001/images/urgut/chor-chinor-urgut.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/urgut/chor-chinor-urgut.jpg" alt="ancient-huge-plane-tree-school">
                     </a>
                     <div class="caption">
                         <h3>Chor Chinor complex in Urgut with Plane Trees Alley</h3>
@@ -423,7 +423,7 @@
 											<div class="post_images">
 												<a href="daytrip-shahrisabz.php">
 													
-													<img width="430" height="305" src="images/shahrisabz/amir-temur-statue-shahrisabz-ak-saray.jpg" alt="amir-temur-statue-shahirsabz" title="Tour Shahrisabz">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/amir-temur-statue-shahrisabz-ak-saray.jpg" alt="amir-temur-statue-shahirsabz" title="Tour Shahrisabz">
 												</a>
 												
 											</div>
@@ -448,7 +448,7 @@
 												<a href="yurt-camp-tour.php">
 											
 													
-													<img width="430" height="305" src="images/yurt-camp-aydarkul/yurt-camp-aydarkul-sputnik.jpg" alt="trip to yurt camp" title="tour to yurt camp">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-camp-aydarkul-sputnik.jpg" alt="trip to yurt camp" title="tour to yurt camp">
 												</a>
 												
 											</div>
@@ -472,7 +472,7 @@
 											<div class="post_images">
 												<a href="nuratau-homestay-3-days.php">
 													
-													<img width="430" height="305" src="images/nuratau/hayat-nuratau-hiking.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -509,7 +509,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="nuratau-homestay-2-days.php">
-													<img width="430" height="305" src="images/nuratau/hiking-nuratau-tour.jpg" alt="trekking In nuratau Mountains" title="Trekking nuratau"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hiking-nuratau-tour.jpg" alt="trekking In nuratau Mountains" title="Trekking nuratau"></a>
 												
 												<div class="post_title"><h3>
 													<a href="nuratau-homestay-2-days.php" rel="bookmark">Hiking in Nuratau Mountains</a>
@@ -521,7 +521,7 @@
 											<div class="inner-special-tours">
 												<a href="samarkand-city-tour.php">
 													
-													<img width="430" height="305" src="images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg" alt="sherdor-facade-registan-samarkand" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/sherdor-facade-registan-samarkand.jpg" alt="sherdor-facade-registan-samarkand" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="samarkand-city-tour.php" rel="bookmark">Samarkand city tour</a>
@@ -532,7 +532,7 @@
 											</div>
 											<div class="inner-special-tours">
 												<a href="hiking-amankutan.php">
-													<img width="430" height="305" src="images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="aman-kutan-mountain-hiking" title="Hiking in Aman kutan">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="aman-kutan-mountain-hiking" title="Hiking in Aman kutan">
 												</a>
 												
 												<div class="post_title"><h3>
@@ -553,3 +553,4 @@
 		</section>
 	</div>
 	<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+

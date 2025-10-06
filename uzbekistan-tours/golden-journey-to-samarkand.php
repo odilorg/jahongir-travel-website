@@ -3,7 +3,7 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -339,7 +339,7 @@
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
 										
 										<div>
-										<img alt="" src="uzbekistan-tours/images/golden-journey-to-samrkand-big.jpg"  height="450" width="800">
+										<img alt="" src="/jahongir-trave-001/uzbekistan-tours/images/golden-journey-to-samrkand-big.jpg"  height="450" width="800">
 											
 										</div>
 									
@@ -354,8 +354,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/shahi-zinda-samarkand.jpg">
-                        <img src="images/shahi-zinda-samarkand.jpg" alt="mausoleum-qussam-ibn-abbas">
+                    <a class="lightbox" href="/jahongir-trave-001/images/shahi-zinda-samarkand.jpg">
+                        <img src="/jahongir-trave-001/images/shahi-zinda-samarkand.jpg" alt="mausoleum-qussam-ibn-abbas">
                     </a>
                     <div class="caption">
                         <h3>Shahi Zinda complex</h3>
@@ -365,8 +365,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/mausoleum-samanids-bukhara.jpg">
-                        <img src="images/mausoleum-samanids-bukhara.jpg" alt="mausoleum-samanids-bukhara">
+                    <a class="lightbox" href="/jahongir-trave-001/images/mausoleum-samanids-bukhara.jpg">
+                        <img src="/jahongir-trave-001/images/mausoleum-samanids-bukhara.jpg" alt="mausoleum-samanids-bukhara">
                     </a>
                     <div class="caption">
                         <h3>Mausoleum of Samanids</h3>
@@ -376,8 +376,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/minaret-samarkand-registan.jpg">
-                        <img src="images/minaret-samarkand-registan.jpg" alt="minaret-samarkand-registan">
+                    <a class="lightbox" href="/jahongir-trave-001/images/minaret-samarkand-registan.jpg">
+                        <img src="/jahongir-trave-001/images/minaret-samarkand-registan.jpg" alt="minaret-samarkand-registan">
                     </a>
                     <div class="caption">
                         <h3>Minaret in Samarkand Registan square</h3>
@@ -387,8 +387,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/muqarnas-samarkand-gur-emir-mausoleum.jpg">
-                        <img src="images/muqarnas-samarkand-gur-emir-mausoleum.jpg" alt="muqarnas-samarkand-gur-emir-mausoleum">
+                    <a class="lightbox" href="/jahongir-trave-001/images/muqarnas-samarkand-gur-emir-mausoleum.jpg">
+                        <img src="/jahongir-trave-001/images/muqarnas-samarkand-gur-emir-mausoleum.jpg" alt="muqarnas-samarkand-gur-emir-mausoleum">
                     </a>
                     <div class="caption">
                         <h3>Muqarnas in Gur Emir Mausoleum</h3>
@@ -398,8 +398,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/registan-square-samarkand.jpg">
-                        <img src="images/registan-square-samarkand.jpg" alt="registan-square-samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/images/registan-square-samarkand.jpg">
+                        <img src="/jahongir-trave-001/images/registan-square-samarkand.jpg" alt="registan-square-samarkand">
                     </a>
                     <div class="caption">
                         <h3>Registan Square Samarkand</h3>
@@ -409,8 +409,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/ark-bukhara.jpg">
-                        <img src="images/ark-bukhara.jpg" alt="ark-citadel-bukhara">
+                    <a class="lightbox" href="/jahongir-trave-001/images/ark-bukhara.jpg">
+                        <img src="/jahongir-trave-001/images/ark-bukhara.jpg" alt="ark-citadel-bukhara">
                     </a>
                     <div class="caption">
                         <h3>Ark Citadel in Bukhara</h3>
@@ -431,7 +431,7 @@
 											<div class="post_images">
 												<a href="seven-mysterious-nights-uzbekistan.php">
 													
-													<img width="430" height="305" src="images/8-myterious-nights-map.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
+													<img width="430" height="305" src="/jahongir-trave-001/images/8-myterious-nights-map.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
 												</a>
 												
 											</div>
@@ -455,7 +455,7 @@
 											<div class="post_images">
 												<a href="best-of-uzbekistan-in-10-days.php">
 													
-													<img width="430" height="305" src="images/best-of-uzbekistan-in-10-days-banner.jpg" alt="best-of-uzbekistan-in-10-days-banner" title="best-of-uzbekistan-in-10-days-banner">
+													<img width="430" height="305" src="/jahongir-trave-001/images/best-of-uzbekistan-in-10-days-banner.jpg" alt="best-of-uzbekistan-in-10-days-banner" title="best-of-uzbekistan-in-10-days-banner">
 												</a>
 												
 											</div>
@@ -479,7 +479,7 @@
 											<div class="post_images">
 												<a href="bike-tour-in-uzbekistan.php">
 													
-													<img width="430" height="305" src="images/uzbekistan-bike-tour-banner.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/images/uzbekistan-bike-tour-banner.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -515,7 +515,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="single-tour.php">
-													<img width="430" height="305" src="images/tour/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/images/tour/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="single-tour.php" rel="bookmark">Visit Urgut market</a>
@@ -527,7 +527,7 @@
 											<div class="inner-special-tours">
 												<a href="samarkand-city-tour.php">
 													
-													<img width="430" height="305" src="images/tour/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/images/tour/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="samarkand-city-tour.php" rel="bookmark">Samarkand city tour</a>
@@ -549,3 +549,4 @@
 		</section>
 	</div>
 		<?php include 'includes/footer-carousel.php';?>
+

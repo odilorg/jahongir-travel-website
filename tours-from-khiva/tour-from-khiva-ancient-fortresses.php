@@ -4,7 +4,7 @@
 	
 <?php include 'includes/header.php';?>
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -175,7 +175,7 @@
 														
 														<tr>
 															<td>
-																<a href ="../tours-from-khiva/tours/ancient-fortresses-tour.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Mystery of Ancient Fortresses tour</a>
+																<a href ="../tours-from-khiva/tours/ancient-fortresses-tour.pdf"><img src="/jahongir-trave-001/images/pdf-download.png" alt="pdf-file-download">Mystery of Ancient Fortresses tour</a>
 															</td>
 														</tr>
 														
@@ -256,8 +256,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/toprak-qala.jpg">
-                        <img src="images/toprak-qala.jpg" alt="toprak-qala-khorezm">
+                    <a class="lightbox" href="/jahongir-trave-001/tours-from-khiva/images/toprak-qala.jpg">
+                        <img src="/jahongir-trave-001/tours-from-khiva/images/toprak-qala.jpg" alt="toprak-qala-khorezm">
                     </a>
                     <div class="caption">
                         <h3>Toprak Qala Khorezm</h3>
@@ -267,8 +267,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/toprak-qala-2.jpg">
-                        <img src="images/toprak-qala-2.jpg" alt="toprak-qala-fortress-walls">
+                    <a class="lightbox" href="/jahongir-trave-001/tours-from-khiva/images/toprak-qala-2.jpg">
+                        <img src="/jahongir-trave-001/tours-from-khiva/images/toprak-qala-2.jpg" alt="toprak-qala-fortress-walls">
                     </a>
                     <div class="caption">
                         <h3>Toprak Qala fortress walls</h3>
@@ -278,8 +278,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/ayaz-qala-1.jpg">
-                        <img src="images/ayaz-qala-1.jpg" alt="qizil-qala-khiva-khorezm">
+                    <a class="lightbox" href="/jahongir-trave-001/tours-from-khiva/images/ayaz-qala-1.jpg">
+                        <img src="/jahongir-trave-001/tours-from-khiva/images/ayaz-qala-1.jpg" alt="qizil-qala-khiva-khorezm">
                     </a>
                     <div class="caption">
                         <h3>Qizil qala horezm</h3>
@@ -289,8 +289,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/ayaz-qala-2-khorezm.jpg">
-                        <img src="images/ayaz-qala-2-khorezm.jpg" alt="ayaz-qala-2-khorezm">
+                    <a class="lightbox" href="/jahongir-trave-001/tours-from-khiva/images/ayaz-qala-2-khorezm.jpg">
+                        <img src="/jahongir-trave-001/tours-from-khiva/images/ayaz-qala-2-khorezm.jpg" alt="ayaz-qala-2-khorezm">
                     </a>
                     <div class="caption">
                         <h3>Ayaz qala 2 Khorezm</h3>
@@ -300,8 +300,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/qizil-qala-khiva-khorezm.jpg">
-                        <img src="images/qizil-qala-khiva-khorezm.jpg" alt="qizil-qala-khorezm">
+                    <a class="lightbox" href="/jahongir-trave-001/tours-from-khiva/images/qizil-qala-khiva-khorezm.jpg">
+                        <img src="/jahongir-trave-001/tours-from-khiva/images/qizil-qala-khiva-khorezm.jpg" alt="qizil-qala-khorezm">
                     </a>
                     <div class="caption">
                         <h3>Qizil qala Khorezm</h3>
@@ -311,8 +311,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/janbas-qala-khorezm.jpg">
-                        <img src="images/janbas-qala-khorezm.jpg" alt="Janbas Qala KHorezm">
+                    <a class="lightbox" href="/jahongir-trave-001/tours-from-khiva/images/janbas-qala-khorezm.jpg">
+                        <img src="/jahongir-trave-001/tours-from-khiva/images/janbas-qala-khorezm.jpg" alt="Janbas Qala KHorezm">
                     </a>
                     <div class="caption">
                         <h3>Janbas Qala Khorezm</h3>
@@ -330,7 +330,7 @@
 											<div class="post_images">
 												<a href="/jahongir-trave-001/tours/bukhara/nurata-2d-1n">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
 												</a>
 												
 											</div>
@@ -356,7 +356,7 @@
 												<a href="/jahongir-trave-001/tours/bukhara/yurt-camp-samarkand">
 											
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/yurt-camp-aydarkul/camel-riding-nuratau.jpg" alt="camel-riding-nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/camel-riding-nuratau.jpg" alt="camel-riding-nuratau">
 												</a>
 												
 											</div>
@@ -381,7 +381,7 @@
 											<div class="post_images">
 												<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -418,7 +418,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village">
-													<img width="430" height="305" src="tours-from-samarkand/images/Urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village" rel="bookmark">Visit Urgut market</a>
@@ -430,7 +430,7 @@
 											<div class="inner-special-tours">
 												<a href="/jahongir-trave-001/tours/samarkand/city-tour">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="/jahongir-trave-001/tours/samarkand/city-tour" rel="bookmark">Samarkand city tour</a>
@@ -452,3 +452,6 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+
+
+

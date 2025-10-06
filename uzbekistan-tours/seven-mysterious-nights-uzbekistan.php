@@ -3,7 +3,7 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -305,7 +305,7 @@
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
 										
 										<div>
-										<img alt="" src="uzbekistan-tours/images/8-myterious-nights-map-big.jpg"  height="450" width="800">
+										<img alt="" src="/jahongir-trave-001/uzbekistan-tours/images/8-myterious-nights-map-big.jpg"  height="450" width="800">
 											
 										</div>
 									
@@ -319,7 +319,7 @@
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
-															<img alt="" src="images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
+															<img alt="" src="/jahongir-trave-001/images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
 															<div class="comment-text">
 																<div class="star-rating" title="Rated 4 out of 5">
 																	<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
@@ -383,8 +383,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/registan-square-samarkand.jpg">
-                        <img src="images/registan-square-samarkand.jpg" alt="registan-square-samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/images/registan-square-samarkand.jpg">
+                        <img src="/jahongir-trave-001/images/registan-square-samarkand.jpg" alt="registan-square-samarkand">
                     </a>
                     <div class="caption">
                         <h3>Registan Square in Samarkand</h3>
@@ -394,8 +394,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/gur-emir-mausoleum-samarkand.jpg">
-                        <img src="images/gur-emir-mausoleum-samarkand.jpg" alt="gur-emir-mausoleum-samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/images/gur-emir-mausoleum-samarkand.jpg">
+                        <img src="/jahongir-trave-001/images/gur-emir-mausoleum-samarkand.jpg" alt="gur-emir-mausoleum-samarkand">
                     </a>
                     <div class="caption">
                         <h3>Mausoleum of Gur Amir</h3>
@@ -405,8 +405,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bibi-khanum-mosque-samarkand.jpg">
-                        <img src="images/bibi-khanum-mosque-samarkand.jpg" alt="Bibi khanum Mosque Samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bibi-khanum-mosque-samarkand.jpg">
+                        <img src="/jahongir-trave-001/images/bibi-khanum-mosque-samarkand.jpg" alt="Bibi khanum Mosque Samarkand">
                     </a>
                     <div class="caption">
                         <h3>Bibi Khanum Mosque</h3>
@@ -416,8 +416,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bukhara-bolo-hauz.jpg">
-                        <img src="images/bukhara-bolo-hauz.jpg" alt="Bolo Hauz in Bukhara">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bukhara-bolo-hauz.jpg">
+                        <img src="/jahongir-trave-001/images/bukhara-bolo-hauz.jpg" alt="Bolo Hauz in Bukhara">
                     </a>
                     <div class="caption">
                         <h3>Bolo Hauz in Bukhara</h3>
@@ -427,8 +427,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bukhara-walls.jpg">
-                        <img src="images/bukhara-walls.jpg" alt="city-walls-bukhara">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bukhara-walls.jpg">
+                        <img src="/jahongir-trave-001/images/bukhara-walls.jpg" alt="city-walls-bukhara">
                     </a>
                     <div class="caption">
                         <h3>City walls in Bukhara</h3>
@@ -438,8 +438,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/poi-kalon-bukhara.jpg">
-                        <img src="images/poi-kalon-bukhara.jpg" alt="Poi Kalon in Bukhara">
+                    <a class="lightbox" href="/jahongir-trave-001/images/poi-kalon-bukhara.jpg">
+                        <img src="/jahongir-trave-001/images/poi-kalon-bukhara.jpg" alt="Poi Kalon in Bukhara">
                     </a>
                     <div class="caption">
                         <h3>Poi Kalon in Bukhara</h3>
@@ -460,7 +460,7 @@
 											<div class="post_images">
 												<a href="bike-tour-in-uzbekistan.php">
 													
-													<img width="430" height="305" src="images/uzbekistan-bike-tour-banner.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/images/uzbekistan-bike-tour-banner.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -485,7 +485,7 @@
 												<a href="golden-journey-to-samarkand.php">
 											
 													
-													<img width="430" height="305" src="images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-tour-map">
+													<img width="430" height="305" src="/jahongir-trave-001/images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-tour-map">
 												</a>
 												
 											</div>
@@ -509,7 +509,7 @@
 											<div class="post_images">
 												<a href="best-of-uzbekistan-in-10-days.php">
 													
-													<img width="430" height="305" src="images/best-of-uzbekistan-in-10-days-banner.jpg" alt="best-of-uzbekistan-in-10-days-banner" title="best-of-uzbekistan-in-10-days-banner">
+													<img width="430" height="305" src="/jahongir-trave-001/images/best-of-uzbekistan-in-10-days-banner.jpg" alt="best-of-uzbekistan-in-10-days-banner" title="best-of-uzbekistan-in-10-days-banner">
 												</a>
 												
 											</div>
@@ -549,3 +549,4 @@
 		</section>
 	</div>
 		<?php include 'includes/footer-carousel.php';?>
+

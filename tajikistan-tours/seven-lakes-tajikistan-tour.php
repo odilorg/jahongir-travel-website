@@ -4,7 +4,7 @@
 	
 <?php include 'includes/header.php';?>
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -305,8 +305,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/seven-lakes.jpg">
-                        <img src="images/seven-lakes.jpg" alt="seven-lakes-tajikistan">
+                    <a class="lightbox" href="/jahongir-trave-001/tajikistan-tours/images/seven-lakes.jpg">
+                        <img src="/jahongir-trave-001/tajikistan-tours/images/seven-lakes.jpg" alt="seven-lakes-tajikistan">
                     </a>
                     <div class="caption">
                         <h3>Seven Lakes Tajikistan</h3>
@@ -316,8 +316,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/seven-lakes-mountains.jpg">
-                        <img src="images/seven-lakes-mountains.jpg" alt="Seven lakes mountains Tajikistan">
+                    <a class="lightbox" href="/jahongir-trave-001/tajikistan-tours/images/seven-lakes-mountains.jpg">
+                        <img src="/jahongir-trave-001/tajikistan-tours/images/seven-lakes-mountains.jpg" alt="Seven lakes mountains Tajikistan">
                     </a>
                     <div class="caption">
                         <h3>Tajikistan Pamir Mountains</h3>
@@ -327,8 +327,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/seven-lakes-pamir-mountains-tajikistan.jpg">
-                        <img src="images/seven-lakes-pamir-mountains-tajikistan.jpg" alt="Seven lakes pamir mountains Tajikistan">
+                    <a class="lightbox" href="/jahongir-trave-001/tajikistan-tours/images/seven-lakes-pamir-mountains-tajikistan.jpg">
+                        <img src="/jahongir-trave-001/tajikistan-tours/images/seven-lakes-pamir-mountains-tajikistan.jpg" alt="Seven lakes pamir mountains Tajikistan">
                     </a>
                     <div class="caption">
                         <h3>Tajikistan Pamir Mountains</h3>
@@ -338,8 +338,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/seven-lakes-pamir-mountains-tajikistan-from-samarkand.jpg">
-                        <img src="images/seven-lakes-pamir-mountains-tajikistan-from-samarkand.jpg" alt="Seven lakes pamir mountains tajikistan from samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/tajikistan-tours/images/seven-lakes-pamir-mountains-tajikistan-from-samarkand.jpg">
+                        <img src="/jahongir-trave-001/tajikistan-tours/images/seven-lakes-pamir-mountains-tajikistan-from-samarkand.jpg" alt="Seven lakes pamir mountains tajikistan from samarkand">
                     </a>
                     <div class="caption">
                         <h3>Seven lakes pamir Tajikistan</h3>
@@ -349,8 +349,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/tajikistan-sarazm.jpg">
-                        <img src="images/tajikistan-sarazm.jpg" alt="Tajikistan Sarazm">
+                    <a class="lightbox" href="/jahongir-trave-001/tajikistan-tours/images/tajikistan-sarazm.jpg">
+                        <img src="/jahongir-trave-001/tajikistan-tours/images/tajikistan-sarazm.jpg" alt="Tajikistan Sarazm">
                     </a>
                     <div class="caption">
                         <h3>Tajikistan Sarazm</h3>
@@ -360,8 +360,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/tajikistan-panjakent.jpg">
-                        <img src="images/tajikistan-panjakent.jpg" alt="Tajikistan Panjakent">
+                    <a class="lightbox" href="/jahongir-trave-001/tajikistan-tours/images/tajikistan-panjakent.jpg">
+                        <img src="/jahongir-trave-001/tajikistan-tours/images/tajikistan-panjakent.jpg" alt="Tajikistan Panjakent">
                     </a>
                     <div class="caption">
                         <h3>Ruins of ancient Panjakent</h3>
@@ -379,7 +379,7 @@
 											<div class="post_images">
 												<a href="/jahongir-trave-001/tours/bukhara/nurata-2d-1n">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hayat-nuratau-hiking.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
 												</a>
 												
 											</div>
@@ -405,7 +405,7 @@
 												<a href="/jahongir-trave-001/tours/bukhara/yurt-camp-samarkand">
 											
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/yurt-camp-aydarkul/camel-riding-nuratau.jpg" alt="camel-riding-nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/camel-riding-nuratau.jpg" alt="camel-riding-nuratau">
 												</a>
 												
 											</div>
@@ -430,7 +430,7 @@
 											<div class="post_images">
 												<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -467,7 +467,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village">
-													<img width="430" height="305" src="tours-from-samarkand/images/Urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="/jahongir-trave-001/tours/samarkand/urgut-bazar-konigul-village" rel="bookmark">Visit Urgut market</a>
@@ -479,7 +479,7 @@
 											<div class="inner-special-tours">
 												<a href="/jahongir-trave-001/tours/samarkand/city-tour">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="/jahongir-trave-001/tours/samarkand/city-tour" rel="bookmark">Samarkand city tour</a>
@@ -501,3 +501,5 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+
+

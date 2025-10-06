@@ -3,7 +3,7 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -172,7 +172,7 @@
 														</tr>
 														<tr>
 															<td>
-																<a href ="tours/nuratau 2d-1n.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Homestay in Nuratau 2 days</a>
+																<a href ="tours/nuratau 2d-1n.pdf"><img src="/jahongir-trave-001/images/pdf-download.png" alt="pdf-file-download">Homestay in Nuratau 2 days</a>
 															</td>
 														</tr>
 														</tbody>
@@ -231,7 +231,7 @@
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
-															<img alt="" src="images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
+															<img alt="" src="/jahongir-trave-001/images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
 															<div class="comment-text">
 																<div class="star-rating" title="Rated 4 out of 5">
 																	<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
@@ -296,8 +296,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/nuratau/horse-riding-nuratau.jpg">
-                        <img src="images/nuratau/horse-riding-nuratau.jpg" alt="Horse-riding-nuratau">
+                    <a class="lightbox" href="/jahongir-trave-001/images/nuratau/horse-riding-nuratau.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/horse-riding-nuratau.jpg" alt="Horse-riding-nuratau">
                     </a>
                     <div class="caption">
                         <h3>Horse Riding in Nuratau</h3>
@@ -307,8 +307,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/nuratau/hiking-nuratau-tour.jpg">
-                        <img src="images/nuratau/hiking-nuratau-tour.jpg" alt="Hiking-in-nuratau">
+                    <a class="lightbox" href="/jahongir-trave-001/images/nuratau/hiking-nuratau-tour.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hiking-nuratau-tour.jpg" alt="Hiking-in-nuratau">
                     </a>
                     <div class="caption">
                         <h3>Hiking activity in Nuratau</h3>
@@ -318,8 +318,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/nuratau/homestay-in-nuratau-mountains.jpg">
-                        <img src="images/nuratau/homestay-in-nuratau-mountains.jpg" alt="At the table with the local family in Nuratau">
+                    <a class="lightbox" href="/jahongir-trave-001/images/nuratau/homestay-in-nuratau-mountains.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/homestay-in-nuratau-mountains.jpg" alt="At the table with the local family in Nuratau">
                     </a>
                     <div class="caption">
                         <h3>At the table with the local family in Nuratau</h3>
@@ -329,8 +329,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/nuratau/donkey-riding-asraf-village.jpg">
-                        <img src="images/nuratau/donkey-riding-asraf-village.jpg" alt="Donkey Riding in Nuratau">
+                    <a class="lightbox" href="/jahongir-trave-001/images/nuratau/donkey-riding-asraf-village.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/donkey-riding-asraf-village.jpg" alt="Donkey Riding in Nuratau">
                     </a>
                     <div class="caption">
                         <h3>Donkey Riding in Nuratau</h3>
@@ -340,8 +340,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/nuratau/hiking-nuratau.jpg">
-                        <img src="images/nuratau/hiking-nuratau.jpg" alt="Climbing Nuratau mountains">
+                    <a class="lightbox" href="/jahongir-trave-001/images/nuratau/hiking-nuratau.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hiking-nuratau.jpg" alt="Climbing Nuratau mountains">
                     </a>
                     <div class="caption">
                         <h3>Climbing Nuratau mountains</h3>
@@ -351,8 +351,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/nuratau/yahshigul-tapchan.jpg">
-                        <img src="images/nuratau/yahshigul-tapchan.jpg" alt="Relaxing in tapchan">
+                    <a class="lightbox" href="/jahongir-trave-001/images/nuratau/yahshigul-tapchan.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/yahshigul-tapchan.jpg" alt="Relaxing in tapchan">
                     </a>
                     <div class="caption">
                         <h3>Relaxing in tapchan in homestay in Nuratau</h3>
@@ -373,7 +373,7 @@
 											<div class="post_images">
 												<a href="nuratau-homestay-3-days.php">
 													
-													<img width="430" height="305" src="images/nuratau/homestay-in-nuratau-mountains.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/homestay-in-nuratau-mountains.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
 												</a>
 												
 											</div>
@@ -399,7 +399,7 @@
 												<a href="nuratau-homestay-4-days.php">
 											
 													
-													<img width="430" height="305" src="images/nuratau/hiking-nuratau-tour.jpg" alt="nuratau-mountains-hiking">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hiking-nuratau-tour.jpg" alt="nuratau-mountains-hiking">
 												</a>
 												
 											</div>
@@ -424,7 +424,7 @@
 											<div class="post_images">
 												<a href="hiking-amankutan.php">
 													
-													<img width="430" height="305" src="images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -470,7 +470,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="single-tour.php">
-													<img width="430" height="305" src="images/Urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="single-tour.php" rel="bookmark">Visit Urgut market</a>
@@ -482,7 +482,7 @@
 											<div class="inner-special-tours">
 												<a href="samarkand-city-tour.php">
 													
-													<img width="430" height="305" src="images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="samarkand-city-tour.php" rel="bookmark">Samarkand city tour</a>
@@ -504,3 +504,4 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+

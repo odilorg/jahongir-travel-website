@@ -3,7 +3,7 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -361,7 +361,7 @@
 									<div role="tabpanel" class="tab-pane single-tour-tabs-panel single-tour-tabs-panel--location_tab panel entry-content wc-tab" id="tab-location_tab">
 										
 										<div>
-										<img alt="" src="uzbekistan-tours/images/uzbekistan-bike-tour.jpg"  height="450" width="800">
+										<img alt="" src="/jahongir-trave-001/uzbekistan-tours/images/uzbekistan-bike-tour.jpg"  height="450" width="800">
 											
 										</div>
 									
@@ -376,8 +376,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bike-tour/uzbekistan-bike-tour-foto-registan-samarkand.jpg">
-                        <img src="images/bike-tour/uzbekistan-bike-tour-foto-registan-samarkand.jpg" alt="uzbekistan-bike-tour-foto-registan-samarkand">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-foto-registan-samarkand.jpg">
+                        <img src="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-foto-registan-samarkand.jpg" alt="uzbekistan-bike-tour-foto-registan-samarkand">
                     </a>
                     <div class="caption">
                         <h3>Bike tour Samarkand </h3>
@@ -387,8 +387,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bike-tour/uzbekistan-bike-tour.jpg">
-                        <img src="images/bike-tour/uzbekistan-bike-tour.jpg" alt="bike-tour/uzbekistan-bike-tour">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour.jpg">
+                        <img src="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour.jpg" alt="bike-tour/uzbekistan-bike-tour">
                     </a>
                     <div class="caption">
                         <h3>Uzbekistan bike tour</h3>
@@ -398,8 +398,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bike-tour/uzbekistan-bike-tour-yurt-camp.jpg">
-                        <img src="images/bike-tour/uzbekistan-bike-tour-yurt-camp.jpg" alt="uzbekistan-bike-tour-yurt-camp">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-yurt-camp.jpg">
+                        <img src="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-yurt-camp.jpg" alt="uzbekistan-bike-tour-yurt-camp">
                     </a>
                     <div class="caption">
                         <h3>Overnight in Yurt Camp on bike tour</h3>
@@ -409,8 +409,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bike-tour/uzbekistan-bike-tour-foto-locals.jpg">
-                        <img src="images/bike-tour/uzbekistan-bike-tour-foto-locals.jpg" alt="uzbekistan-bike-tour-foto-locals.jpg">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-foto-locals.jpg">
+                        <img src="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-foto-locals.jpg" alt="uzbekistan-bike-tour-foto-locals.jpg">
                     </a>
                     <div class="caption">
                         <h3>Locals on bike tour</h3>
@@ -420,8 +420,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bike-tour/uzbekistan-bike-tour-camel-riding.jpg">
-                        <img src="images/bike-tour/uzbekistan-bike-tour-camel-riding.jpg" alt="uzbekistan-bike-tour-camel-riding">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-camel-riding.jpg">
+                        <img src="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-camel-riding.jpg" alt="uzbekistan-bike-tour-camel-riding">
                     </a>
                     <div class="caption">
                         <h3>Camel Riding in bike tour</h3>
@@ -431,8 +431,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/bike-tour/uzbekistan-bike-tour-aydarkul-lake.jpg">
-                        <img src="images/bike-tour/uzbekistan-bike-tour-aydarkul-lake.jpg" alt="uzbekistan-bike-tour-aydarkul-lake">
+                    <a class="lightbox" href="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-aydarkul-lake.jpg">
+                        <img src="/jahongir-trave-001/images/bike-tour/uzbekistan-bike-tour-aydarkul-lake.jpg" alt="uzbekistan-bike-tour-aydarkul-lake">
                     </a>
                     <div class="caption">
                         <h3>Aydarkul Lake bike tour</h3>
@@ -453,7 +453,7 @@
 											<div class="post_images">
 												<a href="seven-mysterious-nights-uzbekistan.php">
 													
-													<img width="430" height="305" src="images/8-myterious-nights-map.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
+													<img width="430" height="305" src="/jahongir-trave-001/images/8-myterious-nights-map.jpg" alt="homestay-family-stay-nuratau" title="nuratau-homestay-2-days">
 												</a>
 												
 											</div>
@@ -478,7 +478,7 @@
 												<a href="golden-journey-to-samarkand.php">
 											
 													
-													<img width="430" height="305" src="images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-tour-map">
+													<img width="430" height="305" src="/jahongir-trave-001/images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-tour-map">
 												</a>
 												
 											</div>
@@ -502,7 +502,7 @@
 											<div class="post_images">
 												<a href="best-of-uzbekistan-in-10-days.php">
 													
-													<img width="430" height="305" src="images/best-of-uzbekistan-in-10-days-banner.jpg" alt="best-of-uzbekistan-in-10-days-banner" title="best-of-uzbekistan-in-10-days-banner">
+													<img width="430" height="305" src="/jahongir-trave-001/images/best-of-uzbekistan-in-10-days-banner.jpg" alt="best-of-uzbekistan-in-10-days-banner" title="best-of-uzbekistan-in-10-days-banner">
 												</a>
 												
 											</div>
@@ -538,7 +538,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="single-tour.php">
-													<img width="430" height="305" src="images/tour/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/images/tour/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="single-tour.php" rel="bookmark">Visit Urgut market</a>
@@ -550,7 +550,7 @@
 											<div class="inner-special-tours">
 												<a href="samarkand-city-tour.php">
 													
-													<img width="430" height="305" src="images/tour/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/images/tour/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="samarkand-city-tour.php" rel="bookmark">Samarkand city tour</a>
@@ -572,3 +572,4 @@
 		</section>
 	</div>
 		<?php include 'includes/footer-carousel.php';?>
+

@@ -3,7 +3,7 @@
 <?php include 'includes/header.php';?>
 
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -170,7 +170,7 @@
 														</tr>
 														<tr>
 															<td>
-																<a href ="tours/aman-kutan-tour.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Hiking in Aman Kutan </a>
+																<a href ="tours/aman-kutan-tour.pdf"><img src="/jahongir-trave-001/images/pdf-download.png" alt="pdf-file-download">Hiking in Aman Kutan </a>
 															</td>
 														</tr>
 														</tbody>
@@ -237,7 +237,7 @@
 												<ol class="commentlist">
 													<li itemscope="" itemtype="http://schema.org/Review" class="comment byuser comment-author-physcode bypostauthor even thread-even depth-1" id="li-comment-62">
 														<div id="comment-62" class="comment_container">
-															<img alt="" src="images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
+															<img alt="" src="/jahongir-trave-001/images/avata.jpg" class="avatar avatar-60 photo" height="60" width="60">
 															<div class="comment-text">
 																<div class="star-rating" title="Rated 4 out of 5">
 																	<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
@@ -302,8 +302,8 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/aman-kutan/aman-kutan-house.jpg">
-                        <img src="images/aman-kutan/aman-kutan-house.jpg" alt="Park">
+                    <a class="lightbox" href="/jahongir-trave-001/images/aman-kutan/aman-kutan-house.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-house.jpg" alt="Park">
                     </a>
                     <div class="caption">
                         <h3>House in Aman Kutan</h3>
@@ -313,8 +313,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/aman-kutan/aman-kutan-mountain-hiking.jpg">
-                        <img src="images/aman-kutan/aman-kutan-mountain-hiking.jpg" alt="Bridge">
+                    <a class="lightbox" href="/jahongir-trave-001/images/aman-kutan/aman-kutan-mountain-hiking.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking.jpg" alt="Bridge">
                     </a>
                     <div class="caption">
                         <h3>Hiking in Aman Kutan</h3>
@@ -324,8 +324,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/aman-kutan/creek-aman-kutan.jpg">
-                        <img src="images/aman-kutan/creek-aman-kutan.jpg" alt="Tunnel">
+                    <a class="lightbox" href="/jahongir-trave-001/images/aman-kutan/creek-aman-kutan.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/creek-aman-kutan.jpg" alt="Tunnel">
                     </a>
                     <div class="caption">
                         <h3>The village bridge in Aman Kutan</h3>
@@ -335,8 +335,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/aman-kutan/hiking-aman-kutan.jpg">
-                        <img src="images/aman-kutan/hiking-aman-kutan.jpg" alt="Coast">
+                    <a class="lightbox" href="/jahongir-trave-001/images/aman-kutan/hiking-aman-kutan.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/hiking-aman-kutan.jpg" alt="Coast">
                     </a>
                     <div class="caption">
                         <h3>Freands hiking in Aman Kutan</h3>
@@ -346,8 +346,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/aman-kutan/lions-cave-aman-kutan-village.jpg">
-                        <img src="images/aman-kutan/lions-cave-aman-kutan-village.jpg" alt="Rails">
+                    <a class="lightbox" href="/jahongir-trave-001/images/aman-kutan/lions-cave-aman-kutan-village.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/lions-cave-aman-kutan-village.jpg" alt="Rails">
                     </a>
                     <div class="caption">
                         <h3>Visiting the Lion's Cave during the hike</h3>
@@ -357,8 +357,8 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <a class="lightbox" href="images/aman-kutan/donkey-riding-aman-kutan.jpg">
-                        <img src="images/aman-kutan/donkey-riding-aman-kutan.jpg" alt="Traffic">
+                    <a class="lightbox" href="/jahongir-trave-001/images/aman-kutan/donkey-riding-aman-kutan.jpg">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/donkey-riding-aman-kutan.jpg" alt="Traffic">
                     </a>
                     <div class="caption">
                         <h3>Donkey riding </h3>
@@ -378,7 +378,7 @@
 											<div class="post_images">
 												<a href="daytrip-shahrisabz.php">
 													
-													<img width="430" height="305" src="images/shahrisabz/mosque-inside-dorus-siadat-shahrisabz.jpg" alt="old-mosque-shahrisabz" title="Tour Shahrisabz">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/mosque-inside-dorus-siadat-shahrisabz.jpg" alt="old-mosque-shahrisabz" title="Tour Shahrisabz">
 												</a>
 												
 											</div>
@@ -403,7 +403,7 @@
 												<a href="yurt-camp-tour.php">
 											
 													
-													<img width="430" height="305" src="images/yurt-camp-aydarkul/yurt-camp-aydarkul-sputnik.jpg" alt="trip to yurt camp" title="tour to yurt camp">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-camp-aydarkul-sputnik.jpg" alt="trip to yurt camp" title="tour to yurt camp">
 												</a>
 												
 											</div>
@@ -427,7 +427,7 @@
 											<div class="post_images">
 												<a href="nuratau-homestay-3-days.php">
 													
-													<img width="430" height="305" src="images/nuratau/hiking-nuratau.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/nuratau/hiking-nuratau.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -463,7 +463,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="daytrip-urgut-bazar-konigul-village.php">
-													<img width="430" height="305" src="images/urgut/urgut-market-fabrics.jpg" alt="fabrics-urgut-sunday-market" title="urgut market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="fabrics-urgut-sunday-market" title="urgut market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="daytrip-urgut-bazar-konigul-village.php" rel="bookmark">Visit Urgut market</a>
@@ -475,7 +475,7 @@
 											<div class="inner-special-tours">
 												<a href="samarkand-city-tour.php">
 													
-													<img width="430" height="305" src="images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="samarkand-city-tour.php" rel="bookmark">Samarkand city tour</a>
@@ -486,7 +486,7 @@
 											</div>
 											<div class="inner-special-tours">
 												<a href="hiking-amankutan.php">
-													<img width="430" height="305" src="images/aman-kutan/donkey-riding-aman-kutan-village.jpg" alt="Discover Brazil" title="Hiking in Aman Kutan">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/donkey-riding-aman-kutan-village.jpg" alt="Discover Brazil" title="Hiking in Aman Kutan">
 												</a>
 												
 												<div class="post_title"><h3>
@@ -507,3 +507,4 @@
 		</section>
 	</div>
 	<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+

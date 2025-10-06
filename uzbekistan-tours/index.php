@@ -2,7 +2,7 @@
 <?php include 'includes/header.php';?>
 
 	<div class="wrapper-container">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -22,7 +22,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/uzbekistan-tours/best-of-uzbekistan-10-days">
 											<span class="price">From $950.00</span>
-											<img width="430" height="305" src="uzbekistan-tours/images/best-of-uzbekistan-in-10-days-banner.jpg" alt="uzbekistan-tour-best-of-uzbekistan-in-10-days" title="Best of Uzbekistan in 10 days tour">
+											<img width="430" height="305" src="/jahongir-trave-001/uzbekistan-tours/images/best-of-uzbekistan-in-10-days-banner.jpg" alt="uzbekistan-tour-best-of-uzbekistan-in-10-days" title="Best of Uzbekistan in 10 days tour">
 										</a>
 										
 									</div>
@@ -54,7 +54,7 @@
 											<span class="price">From $1099.00									
 											</span>
 											
-											<img width="430" height="305" src="uzbekistan-tours/images/uzbekistan-bike-tour-banner.jpg" alt="uzbekistan-bike-tour-registan" title="uzbekistan-adventure-bike-tour-registan">
+											<img width="430" height="305" src="/jahongir-trave-001/uzbekistan-tours/images/uzbekistan-bike-tour-banner.jpg" alt="uzbekistan-bike-tour-registan" title="uzbekistan-adventure-bike-tour-registan">
 										</a>
 										
 									</div>
@@ -86,7 +86,7 @@
 											<span class="price">From $1099.00									
 											</span>
 											
-											<img width="430" height="305" src="uzbekistan-tours/images/8-myterious-nights-map.jpg" alt="8-myterious-nights-map" title="8-myterious-nights-map">
+											<img width="430" height="305" src="/jahongir-trave-001/uzbekistan-tours/images/8-myterious-nights-map.jpg" alt="8-myterious-nights-map" title="8-myterious-nights-map">
 										</a>
 										
 									</div>
@@ -116,7 +116,7 @@
 									<div class="post_images">
 										<a href="/jahongir-trave-001/uzbekistan-tours/golden-journey-samarkand">
 											<span class="price">From $1150.00</span>
-											<img width="430" height="305" src="uzbekistan-tours/images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-uzbekistan-tour" title="uzbekistan-tour-golden-journey-to-samarkand">
+											<img width="430" height="305" src="/jahongir-trave-001/uzbekistan-tours/images/golden-journey-to-samarkand.jpg" alt="golden-journey-to-samarkand-uzbekistan-tour" title="uzbekistan-tour-golden-journey-to-samarkand">
 										</a>
 										
 									</div>
@@ -150,3 +150,5 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+
+

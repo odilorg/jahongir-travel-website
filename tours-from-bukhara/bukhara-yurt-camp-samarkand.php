@@ -4,7 +4,7 @@
 	
 <?php include 'includes/header.php';?>
 <div class="site wrapper-content">
-		<div class="top_site_main" style="background-image:url(images/banner/top-heading.jpg);">
+		<div class="top_site_main" style="background-image:url(/jahongir-trave-001/images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
 				<div class="breadcrumbs-wrapper">
 					<ul class="phys-breadcrumb">
@@ -154,7 +154,7 @@
 														
 														<tr>
 															<td>
-																<a href ="../tours-from-bukhara/tours/bukhara-yurt-camp-aydarkul.pdf"><img src="images/pdf-download.png" alt="pdf-file-download">Adventure to Yurt Camp Aydarkul from Bukhara</a>
+																<a href ="../tours-from-bukhara/tours/bukhara-yurt-camp-aydarkul.pdf"><img src="/jahongir-trave-001/images/pdf-download.png" alt="pdf-file-download">Adventure to Yurt Camp Aydarkul from Bukhara</a>
 															</td>
 														</tr>
 														
@@ -223,7 +223,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="../tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp.jpg">
-                        <img src="tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp.jpg" alt="Yurt in Aydarkul Lake">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp.jpg" alt="Yurt in Aydarkul Lake">
                     </a>
                     <div class="caption">
                         <h3>Yurt in Aydarkul Lake</h3>
@@ -234,7 +234,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="../tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-overview.jpg.">
-                        <img src="tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-overview.jpg" alt="yurt-in-sputnik-camp-overview">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-in-sputnik-camp-overview.jpg" alt="yurt-in-sputnik-camp-overview">
                     </a>
                     <div class="caption">
                         <h3>Yurt Camp in Aydarkul lake</h3>
@@ -245,7 +245,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="../tours-from-samarkand/images/yurt-camp-aydarkul/breakfast-yurt-in-sputnik-camp.jpg">
-                        <img src="tours-from-samarkand/images/yurt-camp-aydarkul/breakfast-yurt-in-sputnik-camp.jpg" alt="Breakfast Yurt Camp near Aydarkul Lake">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/breakfast-yurt-in-sputnik-camp.jpg" alt="Breakfast Yurt Camp near Aydarkul Lake">
                     </a>
                     <div class="caption">
                         <h3>Breakfast Yurt Camp near Aydarkul Lake</h3>
@@ -256,7 +256,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="../tours-from-samarkand/images/yurt-camp-aydarkul/beds-in-yurt-camp-aydarkul.jpg">
-                        <img src="tours-from-samarkand/images/yurt-camp-aydarkul/beds-in-yurt-camp-aydarkul.jpg" alt="Coast">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/beds-in-yurt-camp-aydarkul.jpg" alt="Coast">
                     </a>
                     <div class="caption">
                         <h3>Beds in the Yurt</h3>
@@ -267,7 +267,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="../tours-from-samarkand/images/yurt-camp-aydarkul/camels-yurt-camp-aydarkul.jpg">
-                        <img src="tours-from-samarkand/images/yurt-camp-aydarkul/camels-yurt-camp-aydarkul.jpg" alt="Rails">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/camels-yurt-camp-aydarkul.jpg" alt="Rails">
                     </a>
                     <div class="caption">
                         <h3>Camel in the Yurt Camp</h3>
@@ -278,7 +278,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <a class="lightbox" href="../tours-from-samarkand/images/yurt-camp-aydarkul/yurt-camp-aydarkul.jpg">
-                        <img src="tours-from-samarkand/images/yurt-camp-aydarkul/yurt-camp-aydarkul.jpg" alt="Traffic">
+                        <img src="/jahongir-trave-001/tours-from-samarkand/images/yurt-camp-aydarkul/yurt-camp-aydarkul.jpg" alt="Traffic">
                     </a>
                     <div class="caption">
                         <h3>Yurt Camp near Aydarkul</h3>
@@ -300,7 +300,7 @@
 											<div class="post_images">
 												<a href="/jahongir-trave-001/tours/samarkand/shahrisabz-day-trip">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/shahrisabz/dorus-siadat-shahrisabz.jpg" alt="mausoleum-jahangir-dorus-siadat" title="Day tour to Shahrisabz">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/shahrisabz/dorus-siadat-shahrisabz.jpg" alt="mausoleum-jahangir-dorus-siadat" title="Day tour to Shahrisabz">
 												</a>
 												
 											</div>
@@ -324,7 +324,7 @@
 											<div class="post_images">
 												<a href="/jahongir-trave-001/tours/samarkand/hiking-amankutan">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/aman-kutan/aman-kutan-mountain-hiking-walnut-grove.jpg" alt="guesthouse in nuratau" title="uzbekistan homestay in nuratau">
 												</a>
 												
 											</div>
@@ -348,7 +348,7 @@
 											<div class="post_images">
 												<a href="/jahongir-trave-001/tours/samarkand/city-tour">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg" alt="gilded-dome-tilla-kori" title="Samarkand city tour">
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/giilded-dome-tilla-kori-registan-ensemble.jpg" alt="gilded-dome-tilla-kori" title="Samarkand city tour">
 												</a>
 												
 											</div>
@@ -385,7 +385,7 @@
 										<div class="wrapper-special-tours">
 											<div class="inner-special-tours">
 												<a href="single-tour.php">
-													<img width="430" height="305" src="tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/urgut/urgut-market-fabrics.jpg" alt="urgut-market-fabrics" title="urgut-sunday0market"></a>
 												
 												<div class="post_title"><h3>
 													<a href="single-tour.php" rel="bookmark">Visit Urgut market</a>
@@ -397,7 +397,7 @@
 											<div class="inner-special-tours">
 												<a href="samarkand-city-tour.php">
 													
-													<img width="430" height="305" src="tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
+													<img width="430" height="305" src="/jahongir-trave-001/tours-from-samarkand/images/samarkand-city-tour/gilded-corner-tilla-kori-madrasah.jpg" alt="gilded-corner-tilla-kori-madrasah" title="Samarkand city tour"></a>
 												
 												<div class="post_title"><h3>
 													<a href="samarkand-city-tour.php" rel="bookmark">Samarkand city tour</a>
@@ -419,3 +419,4 @@
 		</section>
 	</div>
 		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
+
