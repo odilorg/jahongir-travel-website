@@ -149,4 +149,4 @@
 			</div>
 		</section>
 	</div>
-		<?php include '../uzbekistan-tours/includes/footer-carousel.php';?>
+		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>
