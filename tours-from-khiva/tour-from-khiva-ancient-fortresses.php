@@ -1,8 +1,8 @@
-<?php include '../mailer-tours.php'; ?>
+<?php include 'mailer-tours.php'; ?>
 <?php $title = "Mystery of Ancient Fortresses tour from Khiva"; ?>
 	
 	
-<?php include '../uzbekistan-tours/includes/header.php';?>
+<?php include 'uzbekistan-tours/includes/header.php';?>
 <div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
 			<div class="banner-wrapper container article_heading">
@@ -403,7 +403,7 @@
 								</ul>
 							</div>
 						</div>
-						<?php include '../includes/book-form.php'?>
+						<?php include 'includes/book-form.php'?>
 						<input type="hidden" name="tour_name" value="Khiva ancient fortresses tour"/>
 						<input type="hidden" name="tour_code" value="KHIVFORT"/>						
 
@@ -451,4 +451,4 @@
 			</div>
 		</section>
 	</div>
-		<?php include '../uzbekistan-tours/includes/footer-carousel.php';?>
+		<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>

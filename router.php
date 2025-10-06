@@ -13,125 +13,138 @@ use Steampixel\Route;
 // Set the base path for XAMPP subdirectory
 $basePath = '/jahongir-trave-001';
 
+// Helper function to include files with proper path resolution
+function includeFile($filePath) {
+    // Change to project root directory for proper path resolution
+    $originalDir = getcwd();
+    chdir(__DIR__);
+    
+    // Include the file
+    include $filePath;
+    
+    // Restore original directory
+    chdir($originalDir);
+}
+
 // ========================================
 // ROUTE DEFINITIONS
 // ========================================
 
 // Homepage
 Route::add('/', function() {
-    include 'index.php';
+    includeFile('index.php');
 }, 'get');
 
 // About page
 Route::add('/about', function() {
-    include 'aboutus.php';
+    includeFile('aboutus.php');
 }, 'get');
 
 // Contact page
 Route::add('/contact', function() {
-    include 'contact.php';
+    includeFile('contact.php');
 }, 'get');
 
 // Thank you page
 Route::add('/thank-you', function() {
-    include 'thankyou.php';
+    includeFile('thankyou.php');
 }, 'get');
 
 // Tours from Samarkand
 Route::add('/tours/samarkand', function() {
-    include 'tours-from-samarkand/index.php';
+    includeFile('tours-from-samarkand/index.php');
 }, 'get');
 
 Route::add('/tours/samarkand/city-tour', function() {
-    include 'tours-from-samarkand/samarkand-city-tour.php';
+    includeFile('tours-from-samarkand/samarkand-city-tour.php');
 }, 'get');
 
 Route::add('/tours/samarkand/shahrisabz-day-trip', function() {
-    include 'tours-from-samarkand/daytrip-shahrisabz.php';
+    includeFile('tours-from-samarkand/daytrip-shahrisabz.php');
 }, 'get');
 
 Route::add('/tours/samarkand/urgut-bazar-konigul-village', function() {
-    include 'tours-from-samarkand/daytrip-urgut-bazar-konigul-village.php';
+    includeFile('tours-from-samarkand/daytrip-urgut-bazar-konigul-village.php');
 }, 'get');
 
 Route::add('/tours/samarkand/hiking-amankutan-shahrisabz', function() {
-    include 'tours-from-samarkand/hiking-amankutan-shahrisabz.php';
+    includeFile('tours-from-samarkand/hiking-amankutan-shahrisabz.php');
 }, 'get');
 
 Route::add('/tours/samarkand/hiking-amankutan', function() {
-    include 'tours-from-samarkand/hiking-amankutan.php';
+    includeFile('tours-from-samarkand/hiking-amankutan.php');
 }, 'get');
 
 Route::add('/tours/samarkand/nuratau-homestay-2-days', function() {
-    include 'tours-from-samarkand/nuratau-homestay-2-days.php';
+    includeFile('tours-from-samarkand/nuratau-homestay-2-days.php');
 }, 'get');
 
 Route::add('/tours/samarkand/nuratau-homestay-3-days', function() {
-    include 'tours-from-samarkand/nuratau-homestay-3-days.php';
+    includeFile('tours-from-samarkand/nuratau-homestay-3-days.php');
 }, 'get');
 
 Route::add('/tours/samarkand/nuratau-homestay-4-days', function() {
-    include 'tours-from-samarkand/nuratau-homestay-4-days.php';
+    includeFile('tours-from-samarkand/nuratau-homestay-4-days.php');
 }, 'get');
 
 Route::add('/tours/samarkand/yurt-camp-tour', function() {
-    include 'tours-from-samarkand/yurt-camp-tour.php';
+    includeFile('tours-from-samarkand/yurt-camp-tour.php');
 }, 'get');
 
 // Tours from Bukhara
 Route::add('/tours/bukhara', function() {
-    include 'tours-from-bukhara/index.php';
+    includeFile('tours-from-bukhara/index.php');
 }, 'get');
 
 Route::add('/tours/bukhara/city-tour', function() {
-    include 'tours-from-bukhara/bukhara-city-tour.php';
+    includeFile('tours-from-bukhara/bukhara-city-tour.php');
 }, 'get');
 
 Route::add('/tours/bukhara/nurata-2d-1n', function() {
-    include 'tours-from-bukhara/bukhara-nurata-2d-1n.php';
+    includeFile('tours-from-bukhara/bukhara-nurata-2d-1n.php');
 }, 'get');
 
 Route::add('/tours/bukhara/nuratau-3d-2n', function() {
-    include 'tours-from-bukhara/bukhara-nuratau-3d-2n.php';
+    includeFile('tours-from-bukhara/bukhara-nuratau-3d-2n.php');
 }, 'get');
 
 Route::add('/tours/bukhara/nuratau-4d-3n', function() {
-    include 'tours-from-bukhara/bukhara-nuratau-4d-3n.php';
+    includeFile('tours-from-bukhara/bukhara-nuratau-4d-3n.php');
 }, 'get');
 
 Route::add('/tours/bukhara/yurt-camp-samarkand', function() {
-    include 'tours-from-bukhara/bukhara-yurt-camp-samarkand.php';
+    includeFile('tours-from-bukhara/bukhara-yurt-camp-samarkand.php');
 }, 'get');
 
 // Tours from Khiva
 Route::add('/tours/khiva/ancient-fortresses', function() {
-    include 'tours-from-khiva/tour-from-khiva-ancient-fortresses.php';
+    includeFile('tours-from-khiva/tour-from-khiva-ancient-fortresses.php');
 }, 'get');
 
 // Uzbekistan Tours
 Route::add('/uzbekistan-tours', function() {
-    include 'uzbekistan-tours/index.php';
+    includeFile('uzbekistan-tours/index.php');
 }, 'get');
 
 Route::add('/uzbekistan-tours/best-of-uzbekistan-10-days', function() {
-    include 'uzbekistan-tours/best-of-uzbekistan-in-10-days.php';
+    includeFile('uzbekistan-tours/best-of-uzbekistan-in-10-days.php');
 }, 'get');
 
 Route::add('/uzbekistan-tours/bike-tour', function() {
-    include 'uzbekistan-tours/bike-tour-in-uzbekistan.php';
+    includeFile('uzbekistan-tours/bike-tour-in-uzbekistan.php');
 }, 'get');
 
 Route::add('/uzbekistan-tours/golden-journey-samarkand', function() {
-    include 'uzbekistan-tours/golden-journey-to-samarkand.php';
+    includeFile('uzbekistan-tours/golden-journey-to-samarkand.php');
 }, 'get');
 
 Route::add('/uzbekistan-tours/seven-mysterious-nights', function() {
-    include 'uzbekistan-tours/seven-mysterious-nights-uzbekistan.php';
+    includeFile('uzbekistan-tours/seven-mysterious-nights-uzbekistan.php');
 }, 'get');
 
 // Tajikistan Tours
 Route::add('/tours/tajikistan/seven-lakes-tour', function() {
-    include 'tajikistan-tours/seven-lakes-tajikistan-tour.php';
+    includeFile('tajikistan-tours/seven-lakes-tajikistan-tour.php');
 }, 'get');
 
 // ========================================
