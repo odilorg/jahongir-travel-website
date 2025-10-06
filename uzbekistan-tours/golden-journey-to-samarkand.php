@@ -1,4 +1,4 @@
-<?php include '../mailer-tours.php'; ?>
+<?php include 'mailer-tours.php'; ?>
 <?php $title = "Golden Journey To Samarkand tour"; ?>
 <?php include 'includes/header.php';?>
 
@@ -501,7 +501,7 @@
 								</ul>
 							</div>
 						</div>
-						<?php include '../includes/book-form.php'?>
+						<?php include 'includes/book-form.php'?>
 						<input type="hidden" name="tour_name" value="Golden journey to Samarkand"/>
 						<input type="hidden" name="tour_code" value="GOLD13D"/>												
 

@@ -1,4 +1,4 @@
-<?php include '../mailer-tours.php'; ?>
+<?php include 'mailer-tours.php'; ?>
 <?php $title = "7 Mysterious nights in Uzbekistan tour"; ?>
 <?php include 'includes/header.php';?>
 
@@ -531,7 +531,7 @@
 								</ul>
 							</div>
 						</div>
-						<?php include '../includes/book-form.php'?>
+						<?php include 'includes/book-form.php'?>
 						<input type="hidden" name="tour_name" value="Seven mysterious nights in Uzbekistan"/>
 						<input type="hidden" name="tour_code" value="7MYSN"/>												
 

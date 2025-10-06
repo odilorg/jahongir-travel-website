@@ -1,6 +1,6 @@
-<?php include '../mailer-tours.php'; ?>
+<?php include 'mailer-tours.php'; ?>
 <?php $title = "Hiking in Aman Kutan"; ?>
-<?php include '../uzbekistan-tours/includes/header.php';?>
+<?php include 'uzbekistan-tours/includes/header.php';?>
 
 <div class="site wrapper-content">
 		<div class="top_site_main" style="background-image:url(../images/banner/top-heading.jpg);">
@@ -449,7 +449,7 @@
 								</ul>
 							</div>
 						</div>
-						<?php include '../includes/book-form.php'?>
+						<?php include 'includes/book-form.php'?>
 						<input type="hidden" name="tour_name" value="Hiking to Amankutan"/>
 						<input type="hidden" name="tour_code" value="AMAN"/>												
 
@@ -506,4 +506,4 @@
 			</div>
 		</section>
 	</div>
-	<?php include '../uzbekistan-tours/includes/footer-carousel.php';?>
+	<?php include 'uzbekistan-tours/includes/footer-carousel.php';?>

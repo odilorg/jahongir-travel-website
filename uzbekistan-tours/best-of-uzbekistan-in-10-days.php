@@ -1,4 +1,4 @@
-<?php include '../mailer-tours.php'; ?>
+<?php include 'mailer-tours.php'; ?>
 <?php $title = "Best of Uzbekistan in 10 Days tour"; ?>
 <?php include 'includes/header.php';?>
 
@@ -484,7 +484,7 @@
 								</ul>
 							</div>
 						</div>
-						<?php include '../includes/book-form.php'?>
+						<?php include 'includes/book-form.php'?>
 						<input type="hidden" name="tour_name" value="Best of Uzbekistan in 10 days"/>
 						<input type="hidden" name="tour_code" value="BEST10D"/>												
 
