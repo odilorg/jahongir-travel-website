@@ -110,8 +110,8 @@
 				</div>
 				<div class="width-logo sm-logo">
 					<a href="/jahongir-trave-001/" title="Jahongir Travel" rel="home">
-						<img src="images/logo_brown.png" alt="Logo" width="474" height="130" class="logo_transparent_static">
-						<img src="images/logo_sticky.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
+						<img src="/jahongir-trave-001/images/logo_brown.png" alt="Logo" width="474" height="130" class="logo_transparent_static">
+						<img src="/jahongir-trave-001/images/logo_sticky.png" alt="Sticky logo" width="474" height="130" class="logo_sticky">
 					</a>
 				</div>
 				<nav class="width-navigation">
